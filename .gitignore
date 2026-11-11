@@ -1,0 +1,12 @@
+# downloaded datasets, model weights and trained checkpoints
+data/
+ext/
+ckpt/
+# large intermediate outputs and logs
+results/bt_logits*/
+results/bt_pred*/
+*.log
+# private working notes
+STATUS.md
+__pycache__/
+*.pyc

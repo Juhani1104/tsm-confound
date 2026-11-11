@@ -1,0 +1,10 @@
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["B905", "E501", "E741"]
+
+[tool.ruff.lint.isort]
+known-local-folder = ["paths", "harness", "transforms", "piano_models", "fma_test", "deezer", "artifactnet", "safe_npy", "rb_offset", "bt_spect_check", "bt_train_shim", "vocoder_phase", "task_aidetect", "rb_mechanism"]

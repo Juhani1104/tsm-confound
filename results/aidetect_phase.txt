@@ -1,0 +1,10 @@
+
+version (+-10 cents)        real flagged  fake flagged    AUC
+clean                               0.00          0.85  0.978
+librosa                             0.00          0.50  0.945
+vocoder, per-bin phase              0.00          0.55  0.939
+vocoder, phase-locked               0.00          0.70  0.954
+per-bin, n_fft 1024                 0.00          0.42  0.942
+phase-locked, n_fft 1024            0.00          0.50  0.964
+phase-locked, n_fft 4096            0.03          0.78  0.946
+signalsmith                         0.00          0.80  0.980

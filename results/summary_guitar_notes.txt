@@ -1,0 +1,7 @@
+results/guitar.jsonl  metric note_f1  items 60
+clean 0.775
+pitch10   signalsmith 0.776 | librosa 0.752 (-0.024 [-0.037,-0.012]) | torchaudio 0.752 (-0.025 [-0.032,-0.017]) | rubberband 0.662 (-0.114 [-0.140,-0.088]) | resample 0.776 (-0.001 [-0.005,+0.003])
+pitch200  signalsmith 0.767 | librosa 0.748 (-0.018 [-0.029,-0.008]) | torchaudio 0.728 (-0.039 [-0.050,-0.027]) | rubberband 0.759 (-0.008 [-0.014,-0.002]) | resample 0.771 (+0.004 [-0.005,+0.012])
+tempo5    signalsmith 0.772 | librosa 0.751 (-0.021 [-0.032,-0.010]) | torchaudio 0.752 (-0.020 [-0.031,-0.009]) | rubberband 0.749 (-0.024 [-0.034,-0.015]) | resample 0.767 (-0.005 [-0.014,+0.004])
+tempo10   signalsmith 0.771 | librosa 0.745 (-0.026 [-0.036,-0.015]) | torchaudio 0.746 (-0.025 [-0.036,-0.014]) | rubberband 0.765 (-0.006 [-0.013,+0.001]) | resample 0.662 (-0.109 [-0.136,-0.081])
+tempo20   signalsmith 0.767 | librosa 0.742 (-0.026 [-0.035,-0.016]) | torchaudio 0.740 (-0.027 [-0.036,-0.017]) | rubberband 0.720 (-0.047 [-0.065,-0.030]) | resample 0.763 (-0.004 [-0.012,+0.004])

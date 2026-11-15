@@ -1,0 +1,65 @@
+notes 440 families 10
+
+panns: clean accuracy 0.241
+  pitch10_librosa        acc 0.250   minus signalsmith +0.011 [-0.009,+0.030]
+  pitch10_torchaudio     acc 0.248   minus signalsmith +0.009 [-0.011,+0.030]
+  pitch10_rubberband     acc 0.236   minus signalsmith -0.002 [-0.023,+0.018]
+  pitch10_resample       acc 0.234   minus signalsmith -0.005 [-0.023,+0.014]
+  pitch50_librosa        acc 0.234   minus signalsmith +0.000 [-0.020,+0.018]
+  pitch50_torchaudio     acc 0.239   minus signalsmith +0.005 [-0.016,+0.025]
+  pitch50_rubberband     acc 0.236   minus signalsmith +0.002 [-0.016,+0.020]
+  pitch50_resample       acc 0.234   minus signalsmith +0.000 [-0.016,+0.016]
+  pitch200_librosa       acc 0.239   minus signalsmith -0.007 [-0.032,+0.018]
+  pitch200_torchaudio    acc 0.241   minus signalsmith -0.005 [-0.025,+0.016]
+  pitch200_rubberband    acc 0.234   minus signalsmith -0.011 [-0.039,+0.016]
+  pitch200_resample      acc 0.241   minus signalsmith -0.005 [-0.027,+0.016]
+  tempo5_librosa         acc 0.248   minus signalsmith +0.009 [-0.009,+0.030]
+  tempo5_torchaudio      acc 0.241   minus signalsmith +0.002 [-0.020,+0.025]
+  tempo5_rubberband      acc 0.243   minus signalsmith +0.005 [-0.014,+0.023]
+  tempo5_resample        acc 0.234   minus signalsmith -0.005 [-0.027,+0.018]
+  tempo10_librosa        acc 0.250   minus signalsmith +0.007 [-0.011,+0.027]
+  tempo10_torchaudio     acc 0.261   minus signalsmith +0.018 [-0.005,+0.039]
+  tempo10_rubberband     acc 0.259   minus signalsmith +0.016 [+0.000,+0.032]
+  tempo10_resample       acc 0.236   minus signalsmith -0.007 [-0.030,+0.016]
+  tempo20_librosa        acc 0.255   minus signalsmith +0.014 [-0.011,+0.039]
+  tempo20_torchaudio     acc 0.245   minus signalsmith +0.005 [-0.020,+0.030]
+  tempo20_rubberband     acc 0.236   minus signalsmith -0.005 [-0.023,+0.014]
+  tempo20_resample       acc 0.252   minus signalsmith +0.011 [-0.014,+0.039]
+  pitch10_signalsmith    acc 0.239
+  pitch50_signalsmith    acc 0.234
+  pitch200_signalsmith   acc 0.245
+  tempo5_signalsmith     acc 0.239
+  tempo10_signalsmith    acc 0.243
+  tempo20_signalsmith    acc 0.241
+
+ast: clean accuracy 0.252
+  pitch10_librosa        acc 0.268   minus signalsmith -0.005 [-0.025,+0.016]
+  pitch10_torchaudio     acc 0.266   minus signalsmith -0.007 [-0.027,+0.014]
+  pitch10_rubberband     acc 0.264   minus signalsmith -0.009 [-0.027,+0.007]
+  pitch10_resample       acc 0.270   minus signalsmith -0.002 [-0.018,+0.014]
+  pitch50_librosa        acc 0.257   minus signalsmith -0.014 [-0.036,+0.009]
+  pitch50_torchaudio     acc 0.261   minus signalsmith -0.009 [-0.027,+0.009]
+  pitch50_rubberband     acc 0.268   minus signalsmith -0.002 [-0.023,+0.018]
+  pitch50_resample       acc 0.257   minus signalsmith -0.014 [-0.034,+0.005]
+  pitch200_librosa       acc 0.264   minus signalsmith -0.009 [-0.032,+0.014]
+  pitch200_torchaudio    acc 0.282   minus signalsmith +0.009 [-0.016,+0.034]
+  pitch200_rubberband    acc 0.248   minus signalsmith -0.025 [-0.052,+0.002]
+  pitch200_resample      acc 0.268   minus signalsmith -0.005 [-0.027,+0.016]
+  tempo5_librosa         acc 0.268   minus signalsmith +0.009 [-0.011,+0.032]
+  tempo5_torchaudio      acc 0.270   minus signalsmith +0.011 [-0.011,+0.034]
+  tempo5_rubberband      acc 0.268   minus signalsmith +0.009 [-0.009,+0.027]
+  tempo5_resample        acc 0.261   minus signalsmith +0.002 [-0.020,+0.025]
+  tempo10_librosa        acc 0.261   minus signalsmith -0.007 [-0.030,+0.018]
+  tempo10_torchaudio     acc 0.273   minus signalsmith +0.005 [-0.018,+0.030]
+  tempo10_rubberband     acc 0.268   minus signalsmith +0.000 [-0.016,+0.016]
+  tempo10_resample       acc 0.250   minus signalsmith -0.018 [-0.045,+0.009]
+  tempo20_librosa        acc 0.266   minus signalsmith -0.007 [-0.032,+0.018]
+  tempo20_torchaudio     acc 0.252   minus signalsmith -0.020 [-0.045,+0.002]
+  tempo20_rubberband     acc 0.268   minus signalsmith -0.005 [-0.023,+0.014]
+  tempo20_resample       acc 0.257   minus signalsmith -0.016 [-0.050,+0.016]
+  pitch10_signalsmith    acc 0.273
+  pitch50_signalsmith    acc 0.270
+  pitch200_signalsmith   acc 0.273
+  tempo5_signalsmith     acc 0.259
+  tempo10_signalsmith    acc 0.268
+  tempo20_signalsmith    acc 0.273

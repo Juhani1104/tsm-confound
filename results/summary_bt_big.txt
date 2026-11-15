@@ -1,0 +1,11 @@
+cond     seeds          beat_f70         beat_f30         beat_f20     beat_f30_cal     beat_f20_cal     beat_bias_ms     downbeat_f70 downbeat_f20_cal
+asis     3                 0.831            0.736            0.641            0.736            0.640           -0.000            0.598            0.467
+fixed    3                 0.839            0.742            0.637            0.744            0.638           -1.333            0.593            0.457
+notempo  3                 0.845            0.752            0.647            0.753            0.648           -1.000            0.600            0.464
+spectempo 3                 0.839            0.744            0.639            0.745            0.643           -0.667            0.595            0.462
+beat F20_cal fixed - asis over seeds [0, 1, 2]: -0.0014 [-0.0048, +0.0018]  per seed +0.001 -0.012 +0.006
+beat F20_cal notempo - asis over seeds [0, 1, 2]: +0.0084 [+0.0045, +0.0120]  per seed +0.016 +0.002 +0.007
+beat F20_cal spectempo - asis over seeds [0, 1, 2]: +0.0032 [-0.0001, +0.0065]  per seed +0.012 -0.002 +0.000
+downbeat F20_cal fixed - asis over seeds [0, 1, 2]: -0.0100 [-0.0144, -0.0057]  per seed -0.005 -0.021 -0.004
+downbeat F20_cal notempo - asis over seeds [0, 1, 2]: -0.0037 [-0.0089, +0.0014]  per seed +0.001 -0.004 -0.009
+downbeat F20_cal spectempo - asis over seeds [0, 1, 2]: -0.0056 [-0.0102, -0.0007]  per seed +0.005 -0.009 -0.013

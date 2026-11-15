@@ -1,0 +1,242 @@
+[
+{
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"pitch_err": 3.5,
+"len_err": 0.0,
+"click_ms": 10.15625
+},
+{
+"tool": "librosa",
+"kind": "pitch",
+"amount": -30,
+"pitch_err": 3.0,
+"len_err": 0.0,
+"click_ms": 1.1875
+},
+{
+"tool": "librosa",
+"kind": "pitch",
+"amount": 45,
+"pitch_err": 3.0,
+"len_err": 0.0,
+"click_ms": 5.53125
+},
+{
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"pitch_err": 0.0,
+"len_err": -7.812499999149125e-05,
+"click_ms": 15.619047619047706
+},
+{
+"tool": "librosa",
+"kind": "tempo",
+"amount": 0.9,
+"pitch_err": 0.0,
+"len_err": -0.00015625000000518696,
+"click_ms": 0.8888888888889142
+},
+{
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"pitch_err": 0.0,
+"len_err": 0.0,
+"click_ms": 6.666666666666629
+},
+{
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"pitch_err": 3.5,
+"len_err": 0.0,
+"click_ms": 2.21875
+},
+{
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": -30,
+"pitch_err": 3.0,
+"len_err": 0.0,
+"click_ms": 1.21875
+},
+{
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 45,
+"pitch_err": 3.0,
+"len_err": 0.0,
+"click_ms": 1.65625
+},
+{
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"pitch_err": 0.0,
+"len_err": -7.812499999149125e-05,
+"click_ms": 15.619047619047706
+},
+{
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 0.9,
+"pitch_err": 0.0,
+"len_err": -0.00015625000000518696,
+"click_ms": 0.8888888888889142
+},
+{
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"pitch_err": 0.0,
+"len_err": 0.0,
+"click_ms": 6.666666666666629
+},
+{
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"pitch_err": 6.0,
+"len_err": 0.0,
+"click_ms": 0.0
+},
+{
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": -30,
+"pitch_err": 5.0,
+"len_err": 0.0,
+"click_ms": 0.0
+},
+{
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 45,
+"pitch_err": 4.5,
+"len_err": 0.0,
+"click_ms": 0.0
+},
+{
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"pitch_err": 0.0,
+"len_err": -7.812499999149125e-05,
+"click_ms": 0.15029761904770567
+},
+{
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 0.9,
+"pitch_err": 0.0,
+"len_err": -0.00015625000000518696,
+"click_ms": -0.23611111111108585
+},
+{
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"pitch_err": 0.0,
+"len_err": 0.0,
+"click_ms": 0.04166666666662877
+},
+{
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"pitch_err": -1.499999999999993,
+"len_err": 0.0,
+"click_ms": -1.84375
+},
+{
+"tool": "rubberband",
+"kind": "pitch",
+"amount": -30,
+"pitch_err": 5.0,
+"len_err": 0.0,
+"click_ms": 1.5625
+},
+{
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 45,
+"pitch_err": 3.0,
+"len_err": 0.0,
+"click_ms": 1.8125
+},
+{
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"pitch_err": -0.4999999999999929,
+"len_err": -7.812499999149125e-05,
+"click_ms": 1.4940476190477057
+},
+{
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 0.9,
+"pitch_err": -0.4999999999999929,
+"len_err": -0.00015625000000518696,
+"click_ms": 1.7638888888889142
+},
+{
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"pitch_err": -0.4999999999999929,
+"len_err": 0.0,
+"click_ms": -0.17708333333337123
+},
+{
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"pitch_err": 3.5,
+"len_err": 0.0004393151811887819,
+"click_ms": 0.009576182452747162
+},
+{
+"tool": "resample",
+"kind": "pitch",
+"amount": -30,
+"pitch_err": 3.0,
+"len_err": 0.0004602447940760257,
+"click_ms": -0.010942102686271937
+},
+{
+"tool": "resample",
+"kind": "pitch",
+"amount": 45,
+"pitch_err": 3.0,
+"len_err": 0.0001907747485319078,
+"click_ms": 0.0018587982929147984
+},
+{
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"pitch_err": 0.5328065303224037,
+"len_err": 0.0004687500000155609,
+"click_ms": -0.005952380952294334
+},
+{
+"tool": "resample",
+"kind": "tempo",
+"amount": 0.9,
+"pitch_err": -0.0962878659400701,
+"len_err": 0.00031249999998816946,
+"click_ms": 0.013888888888914153
+},
+{
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"pitch_err": 3.858712999447448,
+"len_err": 0.0,
+"click_ms": 0.010416666666628771
+}
+]

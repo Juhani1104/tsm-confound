@@ -1,0 +1,25 @@
+site-packages/mir_eval/beat.py:93: UserWarning: Estimated beats are empty.
+asis_s0_e100 F at tau=0 0.5776 best 0.587 at tau 1.0
+asis_s1_e100 F at tau=0 0.5837 best 0.588 at tau 1.0
+asis_s2_e100 F at tau=0 0.5862 best 0.6025 at tau 1.0
+asis_s3_e100 F at tau=0 0.5719 best 0.5823 at tau 1.0
+asis_s4_e100 F at tau=0 0.5792 best 0.5872 at tau 1.0
+fixed_s0_e100 F at tau=0 0.5767 best 0.5861 at tau 1.0
+fixed_s1_e100 F at tau=0 0.583 best 0.5915 at tau 1.0
+fixed_s2_e100 F at tau=0 0.5657 best 0.5798 at tau 1.0
+fixed_s3_e100 F at tau=0 0.5687 best 0.5765 at tau 1.0
+fixed_s4_e100 F at tau=0 0.5788 best 0.5881 at tau 1.0
+notempo_s0_e100 F at tau=0 0.563 best 0.5718 at tau 1.0
+notempo_s1_e100 F at tau=0 0.5738 best 0.5812 at tau 1.0
+notempo_s2_e100 F at tau=0 0.5627 best 0.5702 at tau 1.0
+notempo_s3_e100 F at tau=0 0.5574 best 0.5709 at tau 1.0
+notempo_s4_e100 F at tau=0 0.5678 best 0.5723 at tau 0.5
+
+downbeat F70 on GTZAN by threshold shift tau (mean over seeds)
+tau         -2.0   -1.5   -1.0   -0.5   +0.0   +0.5   +1.0   +1.5   +2.0   +2.5   +3.0   +3.5   +4.0
+asis       0.535  0.547  0.559  0.570  0.580  0.586  0.589  0.584  0.569  0.544  0.510  0.461  0.396
+fixed      0.521  0.536  0.550  0.563  0.575  0.582  0.584  0.581  0.571  0.550  0.520  0.480  0.430
+notempo    0.523  0.536  0.547  0.556  0.565  0.572  0.573  0.568  0.557  0.537  0.510  0.475  0.433
+asis      at tau 0: 0.5797   each model at its own best tau: 0.5894
+fixed     at tau 0: 0.5746   each model at its own best tau: 0.5844
+notempo   at tau 0: 0.5650   each model at its own best tau: 0.5733

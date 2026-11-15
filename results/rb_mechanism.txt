@@ -1,0 +1,20 @@
+44.1 kHz tempo (Beat This! settings): predicted vs measured lag, ms
+ pct inhop      outhops calls   at 30 s       60 s      120 s      200 s     rms diff
+ -20   204        [255]    21      +0/   -2    +0/   -1    +0/   -1    +0/   -1      1.2
+ -16   215        [256]    21      +6/   +5   +11/  +11   +22/  +21   +37/  +37      0.8
+ -12   225   [255, 256]    21     +37/  +37   +75/  +74  +103/ +102  +142/ +141      0.7
+  -8   235   [255, 256]    21     -51/  -51   -69/  -70   -88/  -89   -65/  -65      0.3
+  -4   245   [255, 256]    21     -25/  -25   -49/  -49   -49/  -50   -65/  -66      0.2
+  +4   260        [250]    21      +0/   +0    +0/   +0    +0/   +0    +0/   +0      0.2
+  +8   263   [243, 244]    21     +59/  +60  +118/ +119  +106/ +106  +119/ +119      0.4
+ +12   267   [238, 239]    21     -50/  -49   -99/  -99  -109/ -108  -105/ -105      0.4
+ +16   271   [233, 234]    21     +49/  +49   +97/  +98  +107/ +107  +104/ +104      0.5
+ +20   275   [229, 230]    21     -22/  -22   -44/  -43   -44/  -44   -58/  -58      0.6
+
+16 kHz pitch shift: predicted drift slope (ms/s) over the first 30 s; measured from rb_offset.py
+  +10 cents inhop 127 outhops [128]: predicted +2.06  measured +2.08
+  -10 cents inhop 128 outhops [127]: predicted -2.07  measured -2.05
+  +50 cents inhop 124 outhops [128]: predicted +2.86  measured +2.86
+  -50 cents inhop 131 outhops [127]: predicted -2.13  measured -2.14
+ +200 cents inhop 114 outhops [128]: predicted +0.31  measured +0.30
+ -200 cents inhop 143 outhops [127]: predicted -3.14  measured -3.14

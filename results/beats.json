@@ -1,0 +1,2902 @@
+[
+{
+"track": "099440.mp3",
+"cents": 0.23643249400513433,
+"tempo": 1.0450463696325936,
+"pitch_vocoder": [
+0.9426751592356688,
+0.9426751592356688
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.7252747252747254,
+0.7362637362637362
+],
+"tempo_signalsmith": [
+0.961038961038961,
+0.961038961038961
+],
+"tempo_resample": [
+0.9548387096774192,
+0.9548387096774192
+]
+},
+{
+"track": "082778.mp3",
+"cents": -7.116807745607325,
+"tempo": 1.0448649447137244,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "003573.mp3",
+"cents": -3.763370959790291,
+"tempo": 0.9923326448972576,
+"pitch_vocoder": [
+0.7676767676767677,
+0.7755102040816326
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9870129870129869,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+0.6666666666666666,
+0.6666666666666666
+]
+},
+{
+"track": "123935.mp3",
+"cents": 6.554051876408835,
+"tempo": 0.9909199136369161,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "052036.mp3",
+"cents": 0.9918737534611903,
+"tempo": 0.9527559113243068,
+"pitch_vocoder": [
+0.98989898989899,
+0.98989898989899
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "054735.mp3",
+"cents": 5.070262173496133,
+"tempo": 1.0038143313219279,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "023172.mp3",
+"cents": -3.4053656700181563,
+"tempo": 1.0288428703428405,
+"pitch_vocoder": [
+0.9915966386554621,
+0.9915966386554621
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9743589743589743,
+0.9743589743589743
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "085832.mp3",
+"cents": -3.9361034141671,
+"tempo": 0.9953497889480651,
+"pitch_vocoder": [
+0.888888888888889,
+0.888888888888889
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.8791208791208791,
+0.8791208791208791
+],
+"tempo_vocoder": [
+0.9620253164556963,
+0.9620253164556963
+],
+"tempo_signalsmith": [
+0.7920792079207921,
+0.7920792079207921
+],
+"tempo_resample": [
+0.76,
+0.76
+]
+},
+{
+"track": "024420.mp3",
+"cents": -7.319166055056705,
+"tempo": 0.9903112986447129,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "092131.mp3",
+"cents": -5.930895186477008,
+"tempo": 0.9762313340441849,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+0.9807692307692307,
+0.9902912621359222
+],
+"tempo_resample": [
+0.9702970297029703,
+0.9702970297029703
+]
+},
+{
+"track": "048453.mp3",
+"cents": 5.007293452601051,
+"tempo": 0.978040875798604,
+"pitch_vocoder": [
+0.8309859154929577,
+0.8309859154929577
+],
+"pitch_signalsmith": [
+0.9043478260869564,
+0.9043478260869564
+],
+"pitch_resample": [
+0.9279999999999999,
+0.9279999999999999
+],
+"tempo_vocoder": [
+0.8309859154929577,
+0.8309859154929577
+],
+"tempo_signalsmith": [
+0.9026548672566371,
+0.9026548672566371
+],
+"tempo_resample": [
+0.8309859154929577,
+0.8309859154929577
+]
+},
+{
+"track": "105824.mp3",
+"cents": -0.2961805113672984,
+"tempo": 1.048073719980124,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "068897.mp3",
+"cents": 9.233143873275736,
+"tempo": 1.0224789940773533,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "026765.mp3",
+"cents": 0.8245371109486843,
+"tempo": 0.977689120404537,
+"pitch_vocoder": [
+0.9600000000000001,
+0.9600000000000001
+],
+"pitch_signalsmith": [
+0.9736842105263158,
+0.9736842105263158
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.761904761904762,
+0.761904761904762
+],
+"tempo_signalsmith": [
+0.962962962962963,
+0.962962962962963
+],
+"tempo_resample": [
+0.962962962962963,
+0.962962962962963
+]
+},
+{
+"track": "108845.mp3",
+"cents": -6.786959824497463,
+"tempo": 1.0469925413216132,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "087641.mp3",
+"cents": 0.32137171095757466,
+"tempo": 0.961586561247077,
+"pitch_vocoder": [
+0.8732394366197183,
+0.8732394366197183
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9103448275862068,
+0.9103448275862068
+],
+"tempo_vocoder": [
+0.8251748251748252,
+0.8251748251748252
+],
+"tempo_signalsmith": [
+0.8493150684931505,
+0.8493150684931505
+],
+"tempo_resample": [
+0.8979591836734694,
+0.8979591836734694
+]
+},
+{
+"track": "117883.mp3",
+"cents": 2.469795110750008,
+"tempo": 1.0276683114342298,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "006605.mp3",
+"cents": 2.2600660210608083,
+"tempo": 1.0417297704790902,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+0.9914529914529915,
+0.9914529914529915
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "011922.mp3",
+"cents": -9.208142466715943,
+"tempo": 1.0028589263260022,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "027548.mp3",
+"cents": -0.8132823422919255,
+"tempo": 0.9562349579149875,
+"pitch_vocoder": [
+0.9690721649484536,
+0.9896907216494846
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9791666666666666,
+0.9791666666666666
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "113018.mp3",
+"cents": 2.8265633827874996,
+"tempo": 1.0352632838480658,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "109350.mp3",
+"cents": 1.8588203620856802,
+"tempo": 0.9760097447737223,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.99009900990099,
+1.0
+],
+"tempo_signalsmith": [
+0.99009900990099,
+1.0
+],
+"tempo_resample": [
+0.99009900990099,
+1.0
+]
+},
+{
+"track": "032755.mp3",
+"cents": 6.797630420628174,
+"tempo": 1.0009495881521508,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "119942.mp3",
+"cents": 0.21777768933066,
+"tempo": 1.0253030207702178,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "027177.mp3",
+"cents": -7.0415592843008685,
+"tempo": 1.0319626719119277,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "143221.mp3",
+"cents": 3.665738120065143,
+"tempo": 1.02870969415548,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "094099.mp3",
+"cents": -6.167674819597295,
+"tempo": 1.030236416113453,
+"pitch_vocoder": [
+0.9873417721518987,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9873417721518987,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "154413.mp3",
+"cents": -6.173521478855994,
+"tempo": 0.9581552617363512,
+"pitch_vocoder": [
+0.853932584269663,
+0.853932584269663
+],
+"pitch_signalsmith": [
+0.9555555555555557,
+0.9777777777777777
+],
+"pitch_resample": [
+0.9555555555555557,
+0.9777777777777777
+],
+"tempo_vocoder": [
+0.8705882352941177,
+0.8705882352941177
+],
+"tempo_signalsmith": [
+0.9565217391304347,
+0.9565217391304347
+],
+"tempo_resample": [
+0.8842105263157894,
+0.8842105263157894
+]
+},
+{
+"track": "119187.mp3",
+"cents": 7.104539485741405,
+"tempo": 1.036128349617767,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "043867.mp3",
+"cents": 7.5307419283316115,
+"tempo": 0.997190971935879,
+"pitch_vocoder": [
+0.9156626506024096,
+0.9156626506024096
+],
+"pitch_signalsmith": [
+0.9285714285714286,
+0.9285714285714286
+],
+"pitch_resample": [
+0.7692307692307693,
+0.7692307692307693
+],
+"tempo_vocoder": [
+0.9156626506024096,
+0.9156626506024096
+],
+"tempo_signalsmith": [
+0.9156626506024096,
+0.9156626506024096
+],
+"tempo_resample": [
+0.9285714285714286,
+0.9285714285714286
+]
+},
+{
+"track": "073792.mp3",
+"cents": -4.519032227725635,
+"tempo": 0.9507091828603166,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "122800.mp3",
+"cents": 2.9144179114989566,
+"tempo": 1.0219909383508694,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9909909909909909,
+0.9909909909909909
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "051954.mp3",
+"cents": 6.711384330005483,
+"tempo": 0.9781877827364542,
+"pitch_vocoder": [
+0.6736842105263158,
+0.6736842105263158
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9919999999999999,
+0.9919999999999999
+],
+"tempo_vocoder": [
+0.6666666666666666,
+0.6666666666666666
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "087161.mp3",
+"cents": -5.695636656740528,
+"tempo": 1.0139331380066587,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "154305.mp3",
+"cents": 6.1010966629001935,
+"tempo": 1.0463670872844972,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "075783.mp3",
+"cents": -6.98950339157645,
+"tempo": 0.9982212388199336,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9014084507042254,
+0.9014084507042254
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "148612.mp3",
+"cents": 7.894317243923471,
+"tempo": 0.9922716906945437,
+"pitch_vocoder": [
+0.9879518072289156,
+0.9879518072289156
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "148513.mp3",
+"cents": 1.790041241680962,
+"tempo": 0.9524490677493362,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "114294.mp3",
+"cents": 3.4691977430587784,
+"tempo": 1.0419088619633823,
+"pitch_vocoder": [
+0.968421052631579,
+0.968421052631579
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9777777777777777,
+0.9777777777777777
+],
+"tempo_vocoder": [
+0.9473684210526316,
+0.9473684210526316
+],
+"tempo_signalsmith": [
+0.9574468085106383,
+0.9574468085106383
+],
+"tempo_resample": [
+0.9473684210526316,
+0.9473684210526316
+]
+},
+{
+"track": "075380.mp3",
+"cents": 6.5365065911344225,
+"tempo": 1.0385520266709947,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "004778.mp3",
+"cents": 3.2071076104104677,
+"tempo": 0.9745552267243177,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "117472.mp3",
+"cents": 5.370339977925088,
+"tempo": 0.971167474260751,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "125315.mp3",
+"cents": 6.625496693289222,
+"tempo": 0.9562717922570768,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "016338.mp3",
+"cents": 6.509756267871115,
+"tempo": 0.96645072664741,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "004799.mp3",
+"cents": -2.497060070067163,
+"tempo": 0.9816738166556964,
+"pitch_vocoder": [
+0.9210526315789475,
+0.9210526315789475
+],
+"pitch_signalsmith": [
+0.9610389610389611,
+0.9610389610389611
+],
+"pitch_resample": [
+0.9268292682926831,
+0.9268292682926831
+],
+"tempo_vocoder": [
+0.8444444444444443,
+0.8444444444444443
+],
+"tempo_signalsmith": [
+0.853932584269663,
+0.853932584269663
+],
+"tempo_resample": [
+0.8,
+0.8
+]
+},
+{
+"track": "091083.mp3",
+"cents": 3.826740705554826,
+"tempo": 0.9678571878174371,
+"pitch_vocoder": [
+0.983050847457627,
+0.983050847457627
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "078852.mp3",
+"cents": -2.074876755660271,
+"tempo": 0.950582459510798,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "085599.mp3",
+"cents": -4.7501057449979704,
+"tempo": 0.9921188814228955,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "096408.mp3",
+"cents": -7.881575265853511,
+"tempo": 1.0133159946036558,
+"pitch_vocoder": [
+0.575,
+0.575
+],
+"pitch_signalsmith": [
+0.9047619047619047,
+0.9047619047619047
+],
+"pitch_resample": [
+0.890625,
+0.8976377952755905
+],
+"tempo_vocoder": [
+0.5569620253164557,
+0.5569620253164557
+],
+"tempo_signalsmith": [
+0.819047619047619,
+0.819047619047619
+],
+"tempo_resample": [
+0.611764705882353,
+0.611764705882353
+]
+},
+{
+"track": "140923.mp3",
+"cents": -2.3915146022693534,
+"tempo": 1.0225293938076239,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.6732673267326732,
+0.6732673267326732
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "125551.mp3",
+"cents": 3.077320221367888,
+"tempo": 0.9931226748777406,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "149075.mp3",
+"cents": 7.346410112843984,
+"tempo": 1.0132135117500167,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+0.9904761904761905,
+1.0
+],
+"tempo_resample": [
+0.9904761904761905,
+1.0
+]
+},
+{
+"track": "129051.mp3",
+"cents": 6.205487042125981,
+"tempo": 0.9841794723940113,
+"pitch_vocoder": [
+0.9333333333333332,
+0.9333333333333332
+],
+"pitch_signalsmith": [
+0.9782608695652174,
+0.9782608695652174
+],
+"pitch_resample": [
+0.9462365591397849,
+0.9462365591397849
+],
+"tempo_vocoder": [
+0.9213483146067417,
+0.9213483146067417
+],
+"tempo_signalsmith": [
+0.888888888888889,
+0.888888888888889
+],
+"tempo_resample": [
+0.8666666666666666,
+0.8666666666666666
+]
+},
+{
+"track": "014739.mp3",
+"cents": 0.8733857933691134,
+"tempo": 0.9696296885114754,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "139995.mp3",
+"cents": 9.922823802372559,
+"tempo": 0.9743215464306327,
+"pitch_vocoder": [
+0.676056338028169,
+0.676056338028169
+],
+"pitch_signalsmith": [
+0.9791666666666666,
+0.9791666666666666
+],
+"pitch_resample": [
+0.7999999999999999,
+0.7999999999999999
+],
+"tempo_vocoder": [
+0.8958333333333333,
+0.9166666666666666
+],
+"tempo_signalsmith": [
+0.8679245283018868,
+0.8867924528301886
+],
+"tempo_resample": [
+0.8823529411764706,
+0.8910891089108911
+]
+},
+{
+"track": "001087.mp3",
+"cents": -4.862650655457945,
+"tempo": 0.9573190072390966,
+"pitch_vocoder": [
+0.751592356687898,
+0.751592356687898
+],
+"pitch_signalsmith": [
+0.9655172413793103,
+0.9655172413793103
+],
+"pitch_resample": [
+0.9271523178807948,
+0.9271523178807948
+],
+"tempo_vocoder": [
+0.7951807228915663,
+0.7951807228915663
+],
+"tempo_signalsmith": [
+0.8961038961038961,
+0.8961038961038961
+],
+"tempo_resample": [
+0.8979591836734694,
+0.8979591836734694
+]
+},
+{
+"track": "127286.mp3",
+"cents": -4.843937620065269,
+"tempo": 1.0263128532544052,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "085828.mp3",
+"cents": 3.9578714136616266,
+"tempo": 0.9628673212317169,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "106562.mp3",
+"cents": -2.4752299714381154,
+"tempo": 0.9920921394617462,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9635036496350364,
+0.9635036496350364
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "066536.mp3",
+"cents": 3.2996849272392144,
+"tempo": 0.9955928963043749,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "075391.mp3",
+"cents": 1.730366536510628,
+"tempo": 1.0339684603608943,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9908256880733944,
+0.9908256880733944
+],
+"tempo_vocoder": [
+0.9906542056074767,
+0.9906542056074767
+],
+"tempo_signalsmith": [
+0.6486486486486486,
+0.9636363636363636
+],
+"tempo_resample": [
+0.6545454545454545,
+0.9724770642201834
+]
+},
+{
+"track": "073125.mp3",
+"cents": 4.529472206247409,
+"tempo": 0.9865007263508558,
+"pitch_vocoder": [
+0.9291338582677166,
+0.9291338582677166
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.6666666666666666,
+0.6666666666666666
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "129972.mp3",
+"cents": -1.0320738131103155,
+"tempo": 0.9867699569690006,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "114064.mp3",
+"cents": -7.805306719866065,
+"tempo": 0.9703241544087396,
+"pitch_vocoder": [
+0.4462809917355372,
+0.49586776859504134
+],
+"pitch_signalsmith": [
+0.93048128342246,
+0.9411764705882353
+],
+"pitch_resample": [
+0.8056872037914693,
+0.8151658767772512
+],
+"tempo_vocoder": [
+0.47540983606557374,
+0.47540983606557374
+],
+"tempo_signalsmith": [
+0.8349514563106796,
+0.8349514563106796
+],
+"tempo_resample": [
+0.625514403292181,
+0.6584362139917695
+]
+},
+{
+"track": "046736.mp3",
+"cents": -4.323870221117378,
+"tempo": 0.9814133895602302,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "126431.mp3",
+"cents": -3.7390428236012463,
+"tempo": 1.0076699716252953,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.993103448275862,
+0.993103448275862
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "075746.mp3",
+"cents": 9.433799512395094,
+"tempo": 1.0274664134923732,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "114410.mp3",
+"cents": 5.822678963456106,
+"tempo": 1.025926850053958,
+"pitch_vocoder": [
+0.9850746268656716,
+0.9850746268656716
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "069170.mp3",
+"cents": 1.9397546104751289,
+"tempo": 1.0417692257170914,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "127279.mp3",
+"cents": 3.79260310894162,
+"tempo": 1.0000356430736872,
+"pitch_vocoder": [
+0.9428571428571428,
+0.9428571428571428
+],
+"pitch_signalsmith": [
+0.9722222222222222,
+0.9722222222222222
+],
+"pitch_resample": [
+0.9722222222222222,
+0.9722222222222222
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+0.9863013698630138,
+0.9863013698630138
+],
+"tempo_resample": [
+0.9722222222222222,
+0.9722222222222222
+]
+},
+{
+"track": "073551.mp3",
+"cents": -8.458323829989226,
+"tempo": 0.9988449227085524,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "136320.mp3",
+"cents": -5.743380093193313,
+"tempo": 0.9632696297546787,
+"pitch_vocoder": [
+0.7326732673267327,
+0.7326732673267327
+],
+"pitch_signalsmith": [
+0.9841269841269841,
+0.9841269841269841
+],
+"pitch_resample": [
+0.9516129032258064,
+0.9516129032258064
+],
+"tempo_vocoder": [
+0.7454545454545455,
+0.7636363636363636
+],
+"tempo_signalsmith": [
+0.8852459016393444,
+0.8852459016393444
+],
+"tempo_resample": [
+0.9302325581395349,
+0.9302325581395349
+]
+},
+{
+"track": "103600.mp3",
+"cents": 0.12129845058746014,
+"tempo": 1.0285085292596958,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.98989898989899,
+0.98989898989899
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "074348.mp3",
+"cents": -4.099871143889611,
+"tempo": 1.0268771759909168,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+0.99009900990099,
+0.99009900990099
+],
+"pitch_resample": [
+0.99009900990099,
+0.99009900990099
+],
+"tempo_vocoder": [
+0.99009900990099,
+0.99009900990099
+],
+"tempo_signalsmith": [
+0.98989898989899,
+0.98989898989899
+],
+"tempo_resample": [
+0.98989898989899,
+0.98989898989899
+]
+},
+{
+"track": "053591.mp3",
+"cents": 0.5125904632450826,
+"tempo": 0.9649048023370712,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "137418.mp3",
+"cents": 9.299354879594716,
+"tempo": 0.9901636223888517,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "107020.mp3",
+"cents": -4.095314886746085,
+"tempo": 1.034699837063373,
+"pitch_vocoder": [
+0.9473684210526316,
+0.9824561403508771
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9473684210526316,
+0.9824561403508771
+],
+"tempo_signalsmith": [
+0.9824561403508771,
+0.9824561403508771
+],
+"tempo_resample": [
+0.9824561403508771,
+0.9824561403508771
+]
+},
+{
+"track": "124555.mp3",
+"cents": -7.510793349690403,
+"tempo": 1.0233590461073703,
+"pitch_vocoder": [
+0.8400000000000001,
+0.8400000000000001
+],
+"pitch_signalsmith": [
+0.9664429530201343,
+0.9664429530201343
+],
+"pitch_resample": [
+0.8993288590604027,
+0.8993288590604027
+],
+"tempo_vocoder": [
+0.8311688311688312,
+0.8441558441558442
+],
+"tempo_signalsmith": [
+0.8304093567251462,
+0.8304093567251462
+],
+"tempo_resample": [
+0.8,
+0.8
+]
+},
+{
+"track": "138065.mp3",
+"cents": -6.243505148690634,
+"tempo": 0.9892491776012582,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9836065573770492,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "138355.mp3",
+"cents": -5.362002430757231,
+"tempo": 1.0341227992692388,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9534883720930233,
+0.9534883720930233
+],
+"tempo_signalsmith": [
+0.9647058823529412,
+0.9647058823529412
+],
+"tempo_resample": [
+0.8118811881188119,
+0.8118811881188119
+]
+},
+{
+"track": "004022.mp3",
+"cents": -2.1985089612027657,
+"tempo": 1.047469281288229,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.9349112426035503,
+0.9349112426035503
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "108528.mp3",
+"cents": 2.505229688302135,
+"tempo": 1.0193622834702916,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.99009900990099,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "122799.mp3",
+"cents": 0.4305024426483506,
+"tempo": 0.9808968199075591,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+0.945945945945946,
+0.945945945945946
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "013566.mp3",
+"cents": -2.0888715789514256,
+"tempo": 1.0440934187661903,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "101951.mp3",
+"cents": -5.975935985506711,
+"tempo": 1.0488218901220212,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "140344.mp3",
+"cents": 5.166117240076369,
+"tempo": 0.985978692649261,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "062436.mp3",
+"cents": 2.830271790112066,
+"tempo": 0.9880981539293088,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "091087.mp3",
+"cents": -2.3701413472015993,
+"tempo": 1.000380295019453,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+0.9724770642201834,
+0.9908256880733944
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "012147.mp3",
+"cents": -9.665543567292458,
+"tempo": 0.9993571559943396,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "054335.mp3",
+"cents": 9.431968268937759,
+"tempo": 0.9785465228785578,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "014391.mp3",
+"cents": 4.964359181532243,
+"tempo": 0.9942788890070495,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "062742.mp3",
+"cents": -5.81437914764429,
+"tempo": 1.040500257081813,
+"pitch_vocoder": [
+0.8,
+0.8
+],
+"pitch_signalsmith": [
+0.9268292682926829,
+0.9268292682926829
+],
+"pitch_resample": [
+0.8947368421052632,
+0.8947368421052632
+],
+"tempo_vocoder": [
+0.8648648648648648,
+0.8648648648648648
+],
+"tempo_signalsmith": [
+0.9047619047619048,
+0.9047619047619048
+],
+"tempo_resample": [
+0.8837209302325582,
+0.8837209302325582
+]
+},
+{
+"track": "093983.mp3",
+"cents": -9.66345430639574,
+"tempo": 0.980350892659951,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "128443.mp3",
+"cents": 9.980517646478752,
+"tempo": 0.9762146796189989,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "051268.mp3",
+"cents": 6.98089043718544,
+"tempo": 1.0105683148655704,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "067366.mp3",
+"cents": 6.120714150542472,
+"tempo": 1.0130317755443479,
+"pitch_vocoder": [
+0.7478260869565218,
+0.7652173913043478
+],
+"pitch_signalsmith": [
+0.9583333333333334,
+0.9583333333333334
+],
+"pitch_resample": [
+0.7652173913043478,
+0.7826086956521738
+],
+"tempo_vocoder": [
+0.7543859649122807,
+0.7894736842105263
+],
+"tempo_signalsmith": [
+0.7719298245614036,
+0.7894736842105263
+],
+"tempo_resample": [
+0.793103448275862,
+0.810344827586207
+]
+},
+{
+"track": "148606.mp3",
+"cents": -2.7460628588430325,
+"tempo": 1.0260788784583483,
+"pitch_vocoder": [
+0.9873417721518987,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "012174.mp3",
+"cents": -9.470309021920553,
+"tempo": 0.9946812951734452,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "106569.mp3",
+"cents": -2.5629086025978793,
+"tempo": 0.997707400563735,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+},
+{
+"track": "023041.mp3",
+"cents": -7.447586270078608,
+"tempo": 0.9722506865946272,
+"pitch_vocoder": [
+1.0,
+1.0
+],
+"pitch_signalsmith": [
+1.0,
+1.0
+],
+"pitch_resample": [
+1.0,
+1.0
+],
+"tempo_vocoder": [
+1.0,
+1.0
+],
+"tempo_signalsmith": [
+1.0,
+1.0
+],
+"tempo_resample": [
+1.0,
+1.0
+]
+}
+]

@@ -1,0 +1,8106 @@
+{
+"tools": [
+{
+"clip": "146683.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.3078789710998535,
+"onset_ratio": 0.6319595404756356
+},
+{
+"clip": "146683.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.580479621887207,
+"onset_ratio": 0.5986493827194584
+},
+{
+"clip": "146683.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.071747303009033,
+"onset_ratio": 0.5823565767614861
+},
+{
+"clip": "146683.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.719399452209473,
+"onset_ratio": 0.5932362451978982
+},
+{
+"clip": "146683.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.97952938079834,
+"onset_ratio": 0.6024593146723115
+},
+{
+"clip": "146683.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.9588422775268555,
+"onset_ratio": 0.6079271992224862
+},
+{
+"clip": "146683.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.6157314777374268,
+"onset_ratio": 0.92809990500757
+},
+{
+"clip": "146683.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.910594940185547,
+"onset_ratio": 0.9126064959097214
+},
+{
+"clip": "146683.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 6.5536980628967285,
+"onset_ratio": 0.9017033143264045
+},
+{
+"clip": "146683.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.167793273925781,
+"onset_ratio": 0.5932681809645898
+},
+{
+"clip": "146683.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 6.535735607147217,
+"onset_ratio": 0.6024691410620628
+},
+{
+"clip": "146683.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.202821254730225,
+"onset_ratio": 0.607932814302344
+},
+{
+"clip": "146683.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.351996421813965,
+"onset_ratio": 0.9484961812448942
+},
+{
+"clip": "146683.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.8934214115142822,
+"onset_ratio": 1.0324009157911938
+},
+{
+"clip": "146683.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.288172245025635,
+"onset_ratio": 0.9724279524070178
+},
+{
+"clip": "146683.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.0754722356796265,
+"onset_ratio": 1.0165099389855508
+},
+{
+"clip": "146683.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.4345927238464355,
+"onset_ratio": 0.9702998371408822
+},
+{
+"clip": "146683.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.8280855417251587,
+"onset_ratio": 1.020509279614324
+},
+{
+"clip": "146683.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.6856110095977783,
+"onset_ratio": 0.9031954215293523
+},
+{
+"clip": "146683.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.8794444799423218,
+"onset_ratio": 0.9878533789308728
+},
+{
+"clip": "146683.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.2817749977111816,
+"onset_ratio": 0.9879687888758089
+},
+{
+"clip": "146683.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.447521209716797,
+"onset_ratio": 0.9973166936077767
+},
+{
+"clip": "146683.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.87703275680542,
+"onset_ratio": 0.9779256169342958
+},
+{
+"clip": "146683.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.102729320526123,
+"onset_ratio": 1.0165702008247397
+},
+{
+"clip": "146683.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 8.398575118917506e-06,
+"onset_ratio": 0.9240180427587426
+},
+{
+"clip": "146683.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.0426851986267138e-05,
+"onset_ratio": 0.999953976293882
+},
+{
+"clip": "146683.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.2417159925680608e-05,
+"onset_ratio": 1.0185067014907254
+},
+{
+"clip": "146683.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.4460045349551365e-05,
+"onset_ratio": 1.0075812601265433
+},
+{
+"clip": "146683.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.9740093193831854e-05,
+"onset_ratio": 0.95511756362873
+},
+{
+"clip": "146683.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.4196377125917934e-05,
+"onset_ratio": 1.0136769306586852
+},
+{
+"clip": "032001.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.045409679412842,
+"onset_ratio": 0.7199058837934575
+},
+{
+"clip": "032001.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.27211594581604,
+"onset_ratio": 0.7141858481878227
+},
+{
+"clip": "032001.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.7797622680664062,
+"onset_ratio": 0.7091654954395511
+},
+{
+"clip": "032001.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.4066412448883057,
+"onset_ratio": 0.7191890236519933
+},
+{
+"clip": "032001.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.10784387588501,
+"onset_ratio": 0.7122943260797591
+},
+{
+"clip": "032001.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.7680206298828125,
+"onset_ratio": 0.7270039883905439
+},
+{
+"clip": "032001.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.219743251800537,
+"onset_ratio": 0.9588188212340163
+},
+{
+"clip": "032001.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.07789421081543,
+"onset_ratio": 0.9073854468448282
+},
+{
+"clip": "032001.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.442424774169922,
+"onset_ratio": 1.0122188780648682
+},
+{
+"clip": "032001.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.6186060905456543,
+"onset_ratio": 0.7192164606713946
+},
+{
+"clip": "032001.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.733839273452759,
+"onset_ratio": 0.7120861000883265
+},
+{
+"clip": "032001.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.5077672004699707,
+"onset_ratio": 0.7270306481572709
+},
+{
+"clip": "032001.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.4186692237854004,
+"onset_ratio": 1.0220270295612748
+},
+{
+"clip": "032001.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.25672447681427,
+"onset_ratio": 0.9586253630433945
+},
+{
+"clip": "032001.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.4789745807647705,
+"onset_ratio": 0.9713513210789493
+},
+{
+"clip": "032001.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.8124658465385437,
+"onset_ratio": 1.0120891545935353
+},
+{
+"clip": "032001.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.1948639154434204,
+"onset_ratio": 1.0202297882025981
+},
+{
+"clip": "032001.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.83846914768219,
+"onset_ratio": 0.9703809211151436
+},
+{
+"clip": "032001.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.4657536745071411,
+"onset_ratio": 0.984294365786423
+},
+{
+"clip": "032001.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.5932925939559937,
+"onset_ratio": 0.9788189315973759
+},
+{
+"clip": "032001.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.08302903175354,
+"onset_ratio": 0.9721767634190066
+},
+{
+"clip": "032001.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.6346216201782227,
+"onset_ratio": 0.9523947501560426
+},
+{
+"clip": "032001.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.4340490102767944,
+"onset_ratio": 0.9477194975951395
+},
+{
+"clip": "032001.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.5446665287017822,
+"onset_ratio": 0.9286610288466381
+},
+{
+"clip": "032001.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.8980060708126985e-06,
+"onset_ratio": 0.9968792524616008
+},
+{
+"clip": "032001.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.7066674849484116e-06,
+"onset_ratio": 0.9339623584366524
+},
+{
+"clip": "032001.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.618433194991667e-06,
+"onset_ratio": 1.0096858115994756
+},
+{
+"clip": "032001.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.025211637781467e-06,
+"onset_ratio": 1.0199657554691541
+},
+{
+"clip": "032001.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.64787809101108e-06,
+"onset_ratio": 1.0068067899687727
+},
+{
+"clip": "032001.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.554150564217707e-06,
+"onset_ratio": 0.9764944020244856
+},
+{
+"clip": "130667.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.1417460441589355,
+"onset_ratio": 0.699877849243529
+},
+{
+"clip": "130667.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.9305758476257324,
+"onset_ratio": 0.6966625055068909
+},
+{
+"clip": "130667.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.246806621551514,
+"onset_ratio": 0.6808785931739997
+},
+{
+"clip": "130667.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.663941860198975,
+"onset_ratio": 0.6635247967141691
+},
+{
+"clip": "130667.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.018224716186523,
+"onset_ratio": 0.6277680588718962
+},
+{
+"clip": "130667.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.451362133026123,
+"onset_ratio": 0.6732656280662063
+},
+{
+"clip": "130667.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.171608924865723,
+"onset_ratio": 0.9821617729308169
+},
+{
+"clip": "130667.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.729322910308838,
+"onset_ratio": 0.9684008862909057
+},
+{
+"clip": "130667.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.7401227951049805,
+"onset_ratio": 0.9870738679796651
+},
+{
+"clip": "130667.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.983503341674805,
+"onset_ratio": 0.6635246410489111
+},
+{
+"clip": "130667.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.60190486907959,
+"onset_ratio": 0.6277465381499776
+},
+{
+"clip": "130667.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.404626846313477,
+"onset_ratio": 0.6736541685501766
+},
+{
+"clip": "130667.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.4138307571411133,
+"onset_ratio": 1.0067038018419854
+},
+{
+"clip": "130667.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.114121675491333,
+"onset_ratio": 1.0299769254025593
+},
+{
+"clip": "130667.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.4138057231903076,
+"onset_ratio": 1.0366032062725137
+},
+{
+"clip": "130667.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.046976923942566,
+"onset_ratio": 0.9719859350152961
+},
+{
+"clip": "130667.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.8723180294036865,
+"onset_ratio": 0.9872750653256314
+},
+{
+"clip": "130667.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.3490042686462402,
+"onset_ratio": 0.8757521158665417
+},
+{
+"clip": "130667.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.512857437133789,
+"onset_ratio": 1.0060630058074245
+},
+{
+"clip": "130667.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.7309560775756836,
+"onset_ratio": 0.9572889553463964
+},
+{
+"clip": "130667.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.471832036972046,
+"onset_ratio": 1.0595249155131505
+},
+{
+"clip": "130667.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.8865529298782349,
+"onset_ratio": 0.999278724700599
+},
+{
+"clip": "130667.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.787670373916626,
+"onset_ratio": 0.973145485522145
+},
+{
+"clip": "130667.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.1076064109802246,
+"onset_ratio": 0.8964949784909395
+},
+{
+"clip": "130667.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 8.567719305574428e-06,
+"onset_ratio": 1.0005796970943417
+},
+{
+"clip": "130667.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 9.439265340915881e-06,
+"onset_ratio": 0.9757354440847644
+},
+{
+"clip": "130667.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 9.469964425079525e-06,
+"onset_ratio": 0.9569093656147611
+},
+{
+"clip": "130667.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 9.368286555400118e-06,
+"onset_ratio": 0.993919247700256
+},
+{
+"clip": "130667.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 8.794435416348279e-06,
+"onset_ratio": 0.9811313467554796
+},
+{
+"clip": "130667.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.1079619071097113e-05,
+"onset_ratio": 0.9103332307640771
+},
+{
+"clip": "126316.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.9278995990753174,
+"onset_ratio": 0.9147458851216252
+},
+{
+"clip": "126316.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.8162455558776855,
+"onset_ratio": 0.8910773115783471
+},
+{
+"clip": "126316.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.0709116458892822,
+"onset_ratio": 1.049993163299012
+},
+{
+"clip": "126316.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.272789478302002,
+"onset_ratio": 0.9034908129064377
+},
+{
+"clip": "126316.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.023519992828369,
+"onset_ratio": 0.879239678277894
+},
+{
+"clip": "126316.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.0285098552703857,
+"onset_ratio": 0.8929310897377404
+},
+{
+"clip": "126316.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.752284288406372,
+"onset_ratio": 0.9646255326243333
+},
+{
+"clip": "126316.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.535297870635986,
+"onset_ratio": 1.0830452048337076
+},
+{
+"clip": "126316.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.743889808654785,
+"onset_ratio": 1.2247129145100206
+},
+{
+"clip": "126316.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.845980405807495,
+"onset_ratio": 0.8695305698390875
+},
+{
+"clip": "126316.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.7024290561676025,
+"onset_ratio": 0.852052743262654
+},
+{
+"clip": "126316.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.176867723464966,
+"onset_ratio": 0.8909331789016945
+},
+{
+"clip": "126316.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.0130177736282349,
+"onset_ratio": 1.0114092765004405
+},
+{
+"clip": "126316.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.0588483810424805,
+"onset_ratio": 0.9886174272385944
+},
+{
+"clip": "126316.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 0.9669662117958069,
+"onset_ratio": 1.0521811967324446
+},
+{
+"clip": "126316.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.4239028692245483,
+"onset_ratio": 0.9744673756614547
+},
+{
+"clip": "126316.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.5022616386413574,
+"onset_ratio": 0.9712629914869549
+},
+{
+"clip": "126316.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.070040464401245,
+"onset_ratio": 0.9787634571762649
+},
+{
+"clip": "126316.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.9997730255126953,
+"onset_ratio": 1.254685751928238
+},
+{
+"clip": "126316.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.8949662446975708,
+"onset_ratio": 1.1000789702302562
+},
+{
+"clip": "126316.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.525875210762024,
+"onset_ratio": 1.0956162249537076
+},
+{
+"clip": "126316.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.4326339960098267,
+"onset_ratio": 1.0718935768062234
+},
+{
+"clip": "126316.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.9579471349716187,
+"onset_ratio": 1.057927352376226
+},
+{
+"clip": "126316.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.4475746154785156,
+"onset_ratio": 1.0545166762373954
+},
+{
+"clip": "126316.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.753645483404398e-05,
+"onset_ratio": 0.9865177951801753
+},
+{
+"clip": "126316.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.3049629817251116e-05,
+"onset_ratio": 0.9792883651908696
+},
+{
+"clip": "126316.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.125161154253874e-05,
+"onset_ratio": 0.9637173310916786
+},
+{
+"clip": "126316.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.7132937248097733e-05,
+"onset_ratio": 0.9630040897129144
+},
+{
+"clip": "126316.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.3165985112427734e-05,
+"onset_ratio": 1.0068458702878758
+},
+{
+"clip": "126316.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.131905759801157e-05,
+"onset_ratio": 1.0598488563266715
+},
+{
+"clip": "076440.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.9755423069000244,
+"onset_ratio": 0.706613167944267
+},
+{
+"clip": "076440.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.650862693786621,
+"onset_ratio": 0.6843025466977151
+},
+{
+"clip": "076440.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.902857780456543,
+"onset_ratio": 0.7156705354221748
+},
+{
+"clip": "076440.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.64329195022583,
+"onset_ratio": 0.6909354840853462
+},
+{
+"clip": "076440.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.192324161529541,
+"onset_ratio": 0.6866801920220797
+},
+{
+"clip": "076440.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.106199741363525,
+"onset_ratio": 0.6762541525376811
+},
+{
+"clip": "076440.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.139413356781006,
+"onset_ratio": 0.9496251014857854
+},
+{
+"clip": "076440.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.393232345581055,
+"onset_ratio": 0.9804113270862174
+},
+{
+"clip": "076440.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.296177387237549,
+"onset_ratio": 0.9648467970797351
+},
+{
+"clip": "076440.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.178234577178955,
+"onset_ratio": 0.690983520071742
+},
+{
+"clip": "076440.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.753459453582764,
+"onset_ratio": 0.6866856865120299
+},
+{
+"clip": "076440.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.66577672958374,
+"onset_ratio": 0.6762385938829707
+},
+{
+"clip": "076440.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.814671516418457,
+"onset_ratio": 1.0143575916195577
+},
+{
+"clip": "076440.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.7688615322113037,
+"onset_ratio": 1.0250667333386152
+},
+{
+"clip": "076440.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.3237106800079346,
+"onset_ratio": 0.9853625697428714
+},
+{
+"clip": "076440.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.037606954574585,
+"onset_ratio": 1.0718437743242355
+},
+{
+"clip": "076440.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.9287378787994385,
+"onset_ratio": 1.0483434600012518
+},
+{
+"clip": "076440.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.6324338912963867,
+"onset_ratio": 1.0231405066044117
+},
+{
+"clip": "076440.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.4432156085968018,
+"onset_ratio": 0.9696214544455163
+},
+{
+"clip": "076440.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.8406593799591064,
+"onset_ratio": 0.9740990829486464
+},
+{
+"clip": "076440.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.0939929485321045,
+"onset_ratio": 0.9828577351362947
+},
+{
+"clip": "076440.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.7111639976501465,
+"onset_ratio": 0.9705403942894546
+},
+{
+"clip": "076440.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.6804739236831665,
+"onset_ratio": 1.0336962378119898
+},
+{
+"clip": "076440.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.7431155443191528,
+"onset_ratio": 1.0136527736810033
+},
+{
+"clip": "076440.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.224007393029751e-06,
+"onset_ratio": 1.0082134462339267
+},
+{
+"clip": "076440.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 8.852007340465207e-06,
+"onset_ratio": 1.0121505474881005
+},
+{
+"clip": "076440.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.0391938303655479e-05,
+"onset_ratio": 1.04854245845905
+},
+{
+"clip": "076440.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.1614969480433501e-05,
+"onset_ratio": 1.0300473524761908
+},
+{
+"clip": "076440.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.2411635907483287e-05,
+"onset_ratio": 1.03489947671018
+},
+{
+"clip": "076440.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.6446008885395713e-05,
+"onset_ratio": 1.0267240020697148
+},
+{
+"clip": "091083.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.367555141448975,
+"onset_ratio": 0.6445585517460092
+},
+{
+"clip": "091083.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.063030242919922,
+"onset_ratio": 0.6330992037393276
+},
+{
+"clip": "091083.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.6425280570983887,
+"onset_ratio": 0.6589201830354976
+},
+{
+"clip": "091083.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.7190351486206055,
+"onset_ratio": 0.6328434985991731
+},
+{
+"clip": "091083.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.505312919616699,
+"onset_ratio": 0.6310154613545268
+},
+{
+"clip": "091083.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.394676685333252,
+"onset_ratio": 0.6138496070086958
+},
+{
+"clip": "091083.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.565330982208252,
+"onset_ratio": 0.9273903693112993
+},
+{
+"clip": "091083.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.753637790679932,
+"onset_ratio": 0.9347401704226415
+},
+{
+"clip": "091083.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.660915374755859,
+"onset_ratio": 0.9938871796757032
+},
+{
+"clip": "091083.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.791578769683838,
+"onset_ratio": 0.6328854174746082
+},
+{
+"clip": "091083.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.0819549560546875,
+"onset_ratio": 0.6310221983166503
+},
+{
+"clip": "091083.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.349587917327881,
+"onset_ratio": 0.6137746021637208
+},
+{
+"clip": "091083.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.943319320678711,
+"onset_ratio": 0.9797868676614722
+},
+{
+"clip": "091083.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.8328869938850403,
+"onset_ratio": 1.0277659399472614
+},
+{
+"clip": "091083.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.186220645904541,
+"onset_ratio": 1.022093717259807
+},
+{
+"clip": "091083.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.8158054351806641,
+"onset_ratio": 0.8631961028904407
+},
+{
+"clip": "091083.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.3538641929626465,
+"onset_ratio": 0.8419498951518055
+},
+{
+"clip": "091083.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.4743412733078003,
+"onset_ratio": 0.7987536168428981
+},
+{
+"clip": "091083.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.110065221786499,
+"onset_ratio": 0.9342009888873568
+},
+{
+"clip": "091083.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.7827208042144775,
+"onset_ratio": 0.8999113487813994
+},
+{
+"clip": "091083.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.401238441467285,
+"onset_ratio": 0.9975609948319211
+},
+{
+"clip": "091083.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.7836288213729858,
+"onset_ratio": 0.864810279015233
+},
+{
+"clip": "091083.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.4581153392791748,
+"onset_ratio": 0.8342769444239391
+},
+{
+"clip": "091083.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.943722724914551,
+"onset_ratio": 0.7545692507558764
+},
+{
+"clip": "091083.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.411011781892739e-06,
+"onset_ratio": 0.9707680216115984
+},
+{
+"clip": "091083.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.0979136277455837e-05,
+"onset_ratio": 0.936538639889079
+},
+{
+"clip": "091083.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.489110531518236e-05,
+"onset_ratio": 0.7719904359661883
+},
+{
+"clip": "091083.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.211869403050514e-05,
+"onset_ratio": 0.9425028724570199
+},
+{
+"clip": "091083.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.8111990104662254e-05,
+"onset_ratio": 0.8821038362208717
+},
+{
+"clip": "091083.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.3381386199616827e-05,
+"onset_ratio": 0.7896831207500775
+},
+{
+"clip": "099395.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.5027196407318115,
+"onset_ratio": 0.8070765845523279
+},
+{
+"clip": "099395.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.718240737915039,
+"onset_ratio": 0.8000900037205867
+},
+{
+"clip": "099395.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.9773056507110596,
+"onset_ratio": 0.7989847873522785
+},
+{
+"clip": "099395.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.7700533866882324,
+"onset_ratio": 0.7997301321321297
+},
+{
+"clip": "099395.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.579732656478882,
+"onset_ratio": 0.7900524243161706
+},
+{
+"clip": "099395.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.01613187789917,
+"onset_ratio": 0.8159577443825615
+},
+{
+"clip": "099395.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.8639326095581055,
+"onset_ratio": 0.9925241502924049
+},
+{
+"clip": "099395.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.8623855113983154,
+"onset_ratio": 1.0115134750785488
+},
+{
+"clip": "099395.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.548990726470947,
+"onset_ratio": 1.0446707510825985
+},
+{
+"clip": "099395.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.5826528072357178,
+"onset_ratio": 0.8005557234457156
+},
+{
+"clip": "099395.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.671746015548706,
+"onset_ratio": 0.7900420387602621
+},
+{
+"clip": "099395.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.566671848297119,
+"onset_ratio": 0.8160718043541378
+},
+{
+"clip": "099395.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.5780429840087891,
+"onset_ratio": 0.9943109489577772
+},
+{
+"clip": "099395.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.268747329711914,
+"onset_ratio": 1.0175386070339478
+},
+{
+"clip": "099395.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 0.8733611702919006,
+"onset_ratio": 1.0609092923191898
+},
+{
+"clip": "099395.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.566673755645752,
+"onset_ratio": 1.00063074087151
+},
+{
+"clip": "099395.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.8367143869400024,
+"onset_ratio": 1.000373637981636
+},
+{
+"clip": "099395.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.2311781644821167,
+"onset_ratio": 0.9339307760531554
+},
+{
+"clip": "099395.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.1138471364974976,
+"onset_ratio": 1.0186998570992505
+},
+{
+"clip": "099395.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.3117114305496216,
+"onset_ratio": 1.036826758077017
+},
+{
+"clip": "099395.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.568253517150879,
+"onset_ratio": 1.056202824058474
+},
+{
+"clip": "099395.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.4853934049606323,
+"onset_ratio": 1.0025295465497324
+},
+{
+"clip": "099395.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.2418886423110962,
+"onset_ratio": 0.9382436196687117
+},
+{
+"clip": "099395.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.5652990341186523,
+"onset_ratio": 0.9581484432844168
+},
+{
+"clip": "099395.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.409674486145377e-06,
+"onset_ratio": 0.9983745392315296
+},
+{
+"clip": "099395.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 7.511530384363141e-06,
+"onset_ratio": 0.9892486546449175
+},
+{
+"clip": "099395.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.90641957387561e-06,
+"onset_ratio": 1.0029920660744942
+},
+{
+"clip": "099395.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.532366230909247e-06,
+"onset_ratio": 0.9526688549199086
+},
+{
+"clip": "099395.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.9185408645134885e-06,
+"onset_ratio": 0.9745866649476905
+},
+{
+"clip": "099395.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.743598194385413e-06,
+"onset_ratio": 0.9391242181999292
+},
+{
+"clip": "112781.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.172181606292725,
+"onset_ratio": 0.8600475236050781
+},
+{
+"clip": "112781.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.709273338317871,
+"onset_ratio": 0.8425125452520971
+},
+{
+"clip": "112781.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.436335325241089,
+"onset_ratio": 0.8464483785221796
+},
+{
+"clip": "112781.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.685757875442505,
+"onset_ratio": 0.8503396147141873
+},
+{
+"clip": "112781.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.1986775398254395,
+"onset_ratio": 0.8299112597911191
+},
+{
+"clip": "112781.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.836070537567139,
+"onset_ratio": 0.8442356719127064
+},
+{
+"clip": "112781.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.858410120010376,
+"onset_ratio": 1.026407679347987
+},
+{
+"clip": "112781.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.937260150909424,
+"onset_ratio": 1.0236086481788267
+},
+{
+"clip": "112781.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.574869632720947,
+"onset_ratio": 1.0511174948962163
+},
+{
+"clip": "112781.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.77266263961792,
+"onset_ratio": 0.8513537748504041
+},
+{
+"clip": "112781.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.89545202255249,
+"onset_ratio": 0.8299056145913628
+},
+{
+"clip": "112781.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.6048285961151123,
+"onset_ratio": 0.8442818214207141
+},
+{
+"clip": "112781.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.6313920021057129,
+"onset_ratio": 1.0466681601433028
+},
+{
+"clip": "112781.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.7255979180335999,
+"onset_ratio": 1.0352451690014555
+},
+{
+"clip": "112781.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 0.9869202971458435,
+"onset_ratio": 1.080042792797455
+},
+{
+"clip": "112781.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.8901772499084473,
+"onset_ratio": 0.9675724901430164
+},
+{
+"clip": "112781.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.289989709854126,
+"onset_ratio": 1.0006217475962158
+},
+{
+"clip": "112781.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.8552390336990356,
+"onset_ratio": 0.940601348702413
+},
+{
+"clip": "112781.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.45241379737854,
+"onset_ratio": 1.039478715993685
+},
+{
+"clip": "112781.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.5549625158309937,
+"onset_ratio": 1.0518456550997801
+},
+{
+"clip": "112781.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.1450369358062744,
+"onset_ratio": 1.0531078512002887
+},
+{
+"clip": "112781.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.1602795124053955,
+"onset_ratio": 0.9999143335017562
+},
+{
+"clip": "112781.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.285062551498413,
+"onset_ratio": 0.9932764959333246
+},
+{
+"clip": "112781.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.7955193519592285,
+"onset_ratio": 0.9891971334594386
+},
+{
+"clip": "112781.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.750848009076435e-06,
+"onset_ratio": 1.0222434271827658
+},
+{
+"clip": "112781.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.1486882613098715e-05,
+"onset_ratio": 1.0186200557191938
+},
+{
+"clip": "112781.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.683542152226437e-05,
+"onset_ratio": 0.9693329456870141
+},
+{
+"clip": "112781.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.656761742196977e-05,
+"onset_ratio": 0.9879323264540427
+},
+{
+"clip": "112781.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.230593079526443e-05,
+"onset_ratio": 0.9888737340784003
+},
+{
+"clip": "112781.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.905726746073924e-05,
+"onset_ratio": 0.9280449425794974
+},
+{
+"clip": "127267.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.8051748275756836,
+"onset_ratio": 0.8486404009343533
+},
+{
+"clip": "127267.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.609619617462158,
+"onset_ratio": 0.8231647985305708
+},
+{
+"clip": "127267.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.053995609283447,
+"onset_ratio": 0.8310127057937169
+},
+{
+"clip": "127267.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.881194591522217,
+"onset_ratio": 0.7998955665411609
+},
+{
+"clip": "127267.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.524779796600342,
+"onset_ratio": 0.8062507022127647
+},
+{
+"clip": "127267.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.4762864112854,
+"onset_ratio": 0.8342506526755132
+},
+{
+"clip": "127267.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.793295860290527,
+"onset_ratio": 0.9743981019034148
+},
+{
+"clip": "127267.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.832930564880371,
+"onset_ratio": 1.0125920013041227
+},
+{
+"clip": "127267.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.900580406188965,
+"onset_ratio": 1.0621304421998456
+},
+{
+"clip": "127267.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.644411087036133,
+"onset_ratio": 0.7998506477660883
+},
+{
+"clip": "127267.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.444809913635254,
+"onset_ratio": 0.8061873057698298
+},
+{
+"clip": "127267.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.552729606628418,
+"onset_ratio": 0.8341606284822582
+},
+{
+"clip": "127267.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.962369680404663,
+"onset_ratio": 1.0099062069552487
+},
+{
+"clip": "127267.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.8713474869728088,
+"onset_ratio": 1.0515979226608536
+},
+{
+"clip": "127267.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.443450927734375,
+"onset_ratio": 1.0578110229259603
+},
+{
+"clip": "127267.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.9361354112625122,
+"onset_ratio": 1.0560193735013859
+},
+{
+"clip": "127267.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.9731969237327576,
+"onset_ratio": 1.0001382398080407
+},
+{
+"clip": "127267.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.502393364906311,
+"onset_ratio": 1.0100817136927558
+},
+{
+"clip": "127267.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.1564644575119019,
+"onset_ratio": 1.0855362347312008
+},
+{
+"clip": "127267.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.5868849754333496,
+"onset_ratio": 1.0456227301462704
+},
+{
+"clip": "127267.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.6240968704223633,
+"onset_ratio": 1.049087946121336
+},
+{
+"clip": "127267.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.5275421142578125,
+"onset_ratio": 0.9976219174027927
+},
+{
+"clip": "127267.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.4791792631149292,
+"onset_ratio": 1.0332875492392306
+},
+{
+"clip": "127267.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.55002760887146,
+"onset_ratio": 1.0453543373544927
+},
+{
+"clip": "127267.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.8231399735668674e-05,
+"onset_ratio": 1.0207371066123134
+},
+{
+"clip": "127267.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.655033651739359e-05,
+"onset_ratio": 1.01110619772201
+},
+{
+"clip": "127267.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 7.328707579290494e-05,
+"onset_ratio": 1.0310454677765315
+},
+{
+"clip": "127267.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.90866147831548e-05,
+"onset_ratio": 1.034418668698505
+},
+{
+"clip": "127267.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 7.028665277175605e-05,
+"onset_ratio": 1.020677940746532
+},
+{
+"clip": "127267.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 7.886652747401968e-05,
+"onset_ratio": 1.019166318200908
+},
+{
+"clip": "122166.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.9883675575256348,
+"onset_ratio": 0.7707807847763347
+},
+{
+"clip": "122166.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.4230916500091553,
+"onset_ratio": 0.7808553900412035
+},
+{
+"clip": "122166.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.351841688156128,
+"onset_ratio": 0.7630004132062466
+},
+{
+"clip": "122166.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.256960868835449,
+"onset_ratio": 0.7700724418363017
+},
+{
+"clip": "122166.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.498721122741699,
+"onset_ratio": 0.7660599313931438
+},
+{
+"clip": "122166.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.4342589378356934,
+"onset_ratio": 0.7550199363130814
+},
+{
+"clip": "122166.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.169888019561768,
+"onset_ratio": 0.958873371641773
+},
+{
+"clip": "122166.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.53740930557251,
+"onset_ratio": 0.967334985960257
+},
+{
+"clip": "122166.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.9257731437683105,
+"onset_ratio": 0.9966108557411831
+},
+{
+"clip": "122166.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.491139888763428,
+"onset_ratio": 0.7700027912288298
+},
+{
+"clip": "122166.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.324237823486328,
+"onset_ratio": 0.7659902807856718
+},
+{
+"clip": "122166.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.550384044647217,
+"onset_ratio": 0.75482792989785
+},
+{
+"clip": "122166.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.13399600982666,
+"onset_ratio": 0.9974553849316042
+},
+{
+"clip": "122166.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.5594035387039185,
+"onset_ratio": 1.0086013511058616
+},
+{
+"clip": "122166.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.1692744493484497,
+"onset_ratio": 0.9877325837636894
+},
+{
+"clip": "122166.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.7527607679367065,
+"onset_ratio": 0.9974986829389325
+},
+{
+"clip": "122166.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.1030092239379883,
+"onset_ratio": 1.011311806364614
+},
+{
+"clip": "122166.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.441771984100342,
+"onset_ratio": 0.9618375719132568
+},
+{
+"clip": "122166.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.8595954179763794,
+"onset_ratio": 1.0181188138102453
+},
+{
+"clip": "122166.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.624380350112915,
+"onset_ratio": 1.009741864228393
+},
+{
+"clip": "122166.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.087303876876831,
+"onset_ratio": 1.0691170135209769
+},
+{
+"clip": "122166.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.7681127786636353,
+"onset_ratio": 0.949569844703095
+},
+{
+"clip": "122166.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.6535189151763916,
+"onset_ratio": 1.009093764702873
+},
+{
+"clip": "122166.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.1370954513549805,
+"onset_ratio": 0.9412036728986066
+},
+{
+"clip": "122166.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 7.021615601843223e-06,
+"onset_ratio": 0.9571088688193847
+},
+{
+"clip": "122166.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 7.971986633492634e-06,
+"onset_ratio": 1.0027660257038271
+},
+{
+"clip": "122166.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 8.746547791815829e-06,
+"onset_ratio": 0.946431954007969
+},
+{
+"clip": "122166.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 8.473215530102607e-06,
+"onset_ratio": 0.9514896596582452
+},
+{
+"clip": "122166.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 8.1813204815262e-06,
+"onset_ratio": 0.9273486843492926
+},
+{
+"clip": "122166.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 9.957458132703323e-06,
+"onset_ratio": 0.8777835552321914
+},
+{
+"clip": "114063.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.655515193939209,
+"onset_ratio": 0.6460693121637187
+},
+{
+"clip": "114063.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.9272849559783936,
+"onset_ratio": 0.5843836796823056
+},
+{
+"clip": "114063.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.898778200149536,
+"onset_ratio": 0.6101409725074574
+},
+{
+"clip": "114063.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.9733996391296387,
+"onset_ratio": 0.503014904455365
+},
+{
+"clip": "114063.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.629930019378662,
+"onset_ratio": 0.5219881612425699
+},
+{
+"clip": "114063.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.49411678314209,
+"onset_ratio": 0.5210580806033644
+},
+{
+"clip": "114063.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.776447296142578,
+"onset_ratio": 0.9782844779633858
+},
+{
+"clip": "114063.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.320316314697266,
+"onset_ratio": 0.9506510007372289
+},
+{
+"clip": "114063.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.797544956207275,
+"onset_ratio": 0.985553983802243
+},
+{
+"clip": "114063.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.145905494689941,
+"onset_ratio": 0.5030495082374292
+},
+{
+"clip": "114063.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.6506147384643555,
+"onset_ratio": 0.5220220563095963
+},
+{
+"clip": "114063.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.841616630554199,
+"onset_ratio": 0.5211149626885743
+},
+{
+"clip": "114063.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.254348039627075,
+"onset_ratio": 0.9766090756139663
+},
+{
+"clip": "114063.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.4408111572265625,
+"onset_ratio": 0.9884725955827977
+},
+{
+"clip": "114063.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.0030322074890137,
+"onset_ratio": 1.0471258521132363
+},
+{
+"clip": "114063.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.8034485578536987,
+"onset_ratio": 0.8565375878672559
+},
+{
+"clip": "114063.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.0439095497131348,
+"onset_ratio": 0.7978766279124929
+},
+{
+"clip": "114063.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.416865348815918,
+"onset_ratio": 0.6966247906719631
+},
+{
+"clip": "114063.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.736973524093628,
+"onset_ratio": 0.9300115548960961
+},
+{
+"clip": "114063.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.992263674736023,
+"onset_ratio": 0.9202820067198546
+},
+{
+"clip": "114063.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.0989677906036377,
+"onset_ratio": 1.0208640158085474
+},
+{
+"clip": "114063.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.482499837875366,
+"onset_ratio": 0.8389235540815083
+},
+{
+"clip": "114063.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.4001673460006714,
+"onset_ratio": 0.7757263248655054
+},
+{
+"clip": "114063.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.8784301280975342,
+"onset_ratio": 0.7577166432064676
+},
+{
+"clip": "114063.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.047160362257273e-06,
+"onset_ratio": 1.0150594547665728
+},
+{
+"clip": "114063.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.709984634449938e-06,
+"onset_ratio": 0.8792977556111409
+},
+{
+"clip": "114063.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.187883860140573e-06,
+"onset_ratio": 0.7905984942383926
+},
+{
+"clip": "114063.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 9.731922546052374e-06,
+"onset_ratio": 0.8956093560395488
+},
+{
+"clip": "114063.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 9.195361599267926e-06,
+"onset_ratio": 0.8236074209579695
+},
+{
+"clip": "114063.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 7.4492054409347475e-06,
+"onset_ratio": 0.7828386808481492
+},
+{
+"clip": "127495.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.780038833618164,
+"onset_ratio": 0.733806846147124
+},
+{
+"clip": "127495.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.7977826595306396,
+"onset_ratio": 0.6848316640331538
+},
+{
+"clip": "127495.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.1152169704437256,
+"onset_ratio": 0.6787056937414707
+},
+{
+"clip": "127495.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.4501688480377197,
+"onset_ratio": 0.6264976962042819
+},
+{
+"clip": "127495.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.9588510990142822,
+"onset_ratio": 0.6488013927890853
+},
+{
+"clip": "127495.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.048485279083252,
+"onset_ratio": 0.5995300078449183
+},
+{
+"clip": "127495.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.251282215118408,
+"onset_ratio": 0.8815408316754777
+},
+{
+"clip": "127495.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.726881265640259,
+"onset_ratio": 1.057822410878004
+},
+{
+"clip": "127495.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.4641973972320557,
+"onset_ratio": 1.0741217246676302
+},
+{
+"clip": "127495.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.1076836585998535,
+"onset_ratio": 0.6216202333928461
+},
+{
+"clip": "127495.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.095111608505249,
+"onset_ratio": 0.6488066223588275
+},
+{
+"clip": "127495.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.28267502784729,
+"onset_ratio": 0.5995707461932098
+},
+{
+"clip": "127495.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.9790111780166626,
+"onset_ratio": 1.0006891522619359
+},
+{
+"clip": "127495.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.7840932607650757,
+"onset_ratio": 1.0267850190495813
+},
+{
+"clip": "127495.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.22861385345459,
+"onset_ratio": 1.0136221920085229
+},
+{
+"clip": "127495.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.5628190636634827,
+"onset_ratio": 1.0327219403950845
+},
+{
+"clip": "127495.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.7139884233474731,
+"onset_ratio": 1.005584866271772
+},
+{
+"clip": "127495.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.1517693996429443,
+"onset_ratio": 0.9489679753720461
+},
+{
+"clip": "127495.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.817644715309143,
+"onset_ratio": 1.0979437745313771
+},
+{
+"clip": "127495.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.6185734272003174,
+"onset_ratio": 1.0559309800936536
+},
+{
+"clip": "127495.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.7713701725006104,
+"onset_ratio": 1.0197600334235206
+},
+{
+"clip": "127495.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.356146216392517,
+"onset_ratio": 0.9706161976853652
+},
+{
+"clip": "127495.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.0046615600585938,
+"onset_ratio": 0.9730868556143591
+},
+{
+"clip": "127495.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.070101499557495,
+"onset_ratio": 0.939295049402732
+},
+{
+"clip": "127495.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.8149566787760705e-05,
+"onset_ratio": 0.9848635328995561
+},
+{
+"clip": "127495.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.298279989394359e-05,
+"onset_ratio": 1.0173224263752974
+},
+{
+"clip": "127495.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.0742146918782964e-05,
+"onset_ratio": 1.0378959721065992
+},
+{
+"clip": "127495.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.3781157981138676e-05,
+"onset_ratio": 1.0845077547669875
+},
+{
+"clip": "127495.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.719327858358156e-05,
+"onset_ratio": 1.0424911950390496
+},
+{
+"clip": "127495.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.7726693588192575e-05,
+"onset_ratio": 1.0588756462240785
+},
+{
+"clip": "105683.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.154200077056885,
+"onset_ratio": 0.6759808780220904
+},
+{
+"clip": "105683.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.2028117179870605,
+"onset_ratio": 0.6364188933232113
+},
+{
+"clip": "105683.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.307465553283691,
+"onset_ratio": 0.655550771090072
+},
+{
+"clip": "105683.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.245280742645264,
+"onset_ratio": 0.6211737800389633
+},
+{
+"clip": "105683.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.273303985595703,
+"onset_ratio": 0.6017679400586066
+},
+{
+"clip": "105683.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.009299278259277,
+"onset_ratio": 0.5864091567285715
+},
+{
+"clip": "105683.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.372462272644043,
+"onset_ratio": 0.9831424847097943
+},
+{
+"clip": "105683.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.054071426391602,
+"onset_ratio": 0.9759788903415839
+},
+{
+"clip": "105683.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.216113090515137,
+"onset_ratio": 1.0069716099569672
+},
+{
+"clip": "105683.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.3742804527282715,
+"onset_ratio": 0.6211642541044251
+},
+{
+"clip": "105683.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.00830078125,
+"onset_ratio": 0.6017845188485239
+},
+{
+"clip": "105683.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.933506488800049,
+"onset_ratio": 0.5864040273792048
+},
+{
+"clip": "105683.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.7639452815055847,
+"onset_ratio": 1.0094141878062821
+},
+{
+"clip": "105683.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.9085479378700256,
+"onset_ratio": 1.0235469192443907
+},
+{
+"clip": "105683.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.7480727434158325,
+"onset_ratio": 1.0517587987388306
+},
+{
+"clip": "105683.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.9301081299781799,
+"onset_ratio": 1.0011480581108056
+},
+{
+"clip": "105683.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.566971778869629,
+"onset_ratio": 0.9337397974531503
+},
+{
+"clip": "105683.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.9465465545654297,
+"onset_ratio": 0.8403314144288687
+},
+{
+"clip": "105683.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.5536036491394043,
+"onset_ratio": 1.0227274140875369
+},
+{
+"clip": "105683.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.3834770917892456,
+"onset_ratio": 0.9592514408881234
+},
+{
+"clip": "105683.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.2030575275421143,
+"onset_ratio": 0.9940728534236464
+},
+{
+"clip": "105683.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.1715247631073,
+"onset_ratio": 0.9752889928517635
+},
+{
+"clip": "105683.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.1438941955566406,
+"onset_ratio": 0.9760499684685223
+},
+{
+"clip": "105683.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.9887475967407227,
+"onset_ratio": 0.8836165282060102
+},
+{
+"clip": "105683.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.372556759335566e-06,
+"onset_ratio": 1.0062167712403436
+},
+{
+"clip": "105683.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.90574029754498e-06,
+"onset_ratio": 0.9698255946075633
+},
+{
+"clip": "105683.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.7163824799790746e-06,
+"onset_ratio": 0.9820924336180125
+},
+{
+"clip": "105683.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.380762220534962e-06,
+"onset_ratio": 1.0083682585130986
+},
+{
+"clip": "105683.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.118048193253344e-06,
+"onset_ratio": 0.9839628142263678
+},
+{
+"clip": "105683.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.503961918089772e-06,
+"onset_ratio": 0.9246867706075084
+},
+{
+"clip": "140789.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.8655037879943848,
+"onset_ratio": 0.7194261932977464
+},
+{
+"clip": "140789.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.404998779296875,
+"onset_ratio": 0.7146661340788218
+},
+{
+"clip": "140789.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.435399055480957,
+"onset_ratio": 0.7109652440097299
+},
+{
+"clip": "140789.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.633506774902344,
+"onset_ratio": 0.7056805539789452
+},
+{
+"clip": "140789.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.9591715335845947,
+"onset_ratio": 0.7105204194908858
+},
+{
+"clip": "140789.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.341236591339111,
+"onset_ratio": 0.7255488884112078
+},
+{
+"clip": "140789.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.150043249130249,
+"onset_ratio": 0.9435385685982686
+},
+{
+"clip": "140789.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.7472615242004395,
+"onset_ratio": 0.9621237613809438
+},
+{
+"clip": "140789.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.757625579833984,
+"onset_ratio": 0.9691534241997859
+},
+{
+"clip": "140789.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.943592548370361,
+"onset_ratio": 0.7092939145653744
+},
+{
+"clip": "140789.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.707315444946289,
+"onset_ratio": 0.7124034735483846
+},
+{
+"clip": "140789.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.7642385959625244,
+"onset_ratio": 0.7246886499037906
+},
+{
+"clip": "140789.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.700480043888092,
+"onset_ratio": 1.0322535218657864
+},
+{
+"clip": "140789.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.370371103286743,
+"onset_ratio": 1.02514748528266
+},
+{
+"clip": "140789.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.0725088119506836,
+"onset_ratio": 1.0190024007204248
+},
+{
+"clip": "140789.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.9100942015647888,
+"onset_ratio": 1.0026637979927604
+},
+{
+"clip": "140789.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.4036489725112915,
+"onset_ratio": 1.0091941839051484
+},
+{
+"clip": "140789.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.474116086959839,
+"onset_ratio": 0.9802017980434847
+},
+{
+"clip": "140789.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.5182148218154907,
+"onset_ratio": 1.034852648223964
+},
+{
+"clip": "140789.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.3896591663360596,
+"onset_ratio": 1.0515021288379127
+},
+{
+"clip": "140789.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.0382449626922607,
+"onset_ratio": 1.0140528503130977
+},
+{
+"clip": "140789.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.814323902130127,
+"onset_ratio": 0.9628969384777981
+},
+{
+"clip": "140789.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.9437992572784424,
+"onset_ratio": 1.0006932924646155
+},
+{
+"clip": "140789.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.6912801265716553,
+"onset_ratio": 0.9990528557788468
+},
+{
+"clip": "140789.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.1723629945190623e-06,
+"onset_ratio": 0.9766959380159765
+},
+{
+"clip": "140789.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.974126229877584e-06,
+"onset_ratio": 0.9867024613775354
+},
+{
+"clip": "140789.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.076857178210048e-06,
+"onset_ratio": 0.9799800098801958
+},
+{
+"clip": "140789.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.433894901012536e-06,
+"onset_ratio": 0.9814304092934454
+},
+{
+"clip": "140789.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.288634954718873e-06,
+"onset_ratio": 0.9937428118426563
+},
+{
+"clip": "140789.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 7.6407832239056e-06,
+"onset_ratio": 0.9649281373548838
+},
+{
+"clip": "056497.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.616225719451904,
+"onset_ratio": 0.6649442858954366
+},
+{
+"clip": "056497.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.527395725250244,
+"onset_ratio": 0.6385355673022658
+},
+{
+"clip": "056497.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.819807529449463,
+"onset_ratio": 0.6440112934729602
+},
+{
+"clip": "056497.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.829309940338135,
+"onset_ratio": 0.6283426131439939
+},
+{
+"clip": "056497.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.3399529457092285,
+"onset_ratio": 0.6120695332935234
+},
+{
+"clip": "056497.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.821812152862549,
+"onset_ratio": 0.6011460856994899
+},
+{
+"clip": "056497.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.043364524841309,
+"onset_ratio": 0.8974008593847308
+},
+{
+"clip": "056497.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.422817230224609,
+"onset_ratio": 0.9133728519255531
+},
+{
+"clip": "056497.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 7.280355930328369,
+"onset_ratio": 0.9469799997749985
+},
+{
+"clip": "056497.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.744555473327637,
+"onset_ratio": 0.628324475354256
+},
+{
+"clip": "056497.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.0635576248168945,
+"onset_ratio": 0.6120638743031253
+},
+{
+"clip": "056497.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.084418296813965,
+"onset_ratio": 0.6011950819155018
+},
+{
+"clip": "056497.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.787528395652771,
+"onset_ratio": 0.9919528187160055
+},
+{
+"clip": "056497.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.3185902833938599,
+"onset_ratio": 1.0113462271780949
+},
+{
+"clip": "056497.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.756184458732605,
+"onset_ratio": 1.0114971335887137
+},
+{
+"clip": "056497.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.0763421058654785,
+"onset_ratio": 0.9813244608691467
+},
+{
+"clip": "056497.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.7147079706192017,
+"onset_ratio": 0.9669798391910426
+},
+{
+"clip": "056497.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.440293788909912,
+"onset_ratio": 0.9384348275388296
+},
+{
+"clip": "056497.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.6747316122055054,
+"onset_ratio": 0.9458721919452506
+},
+{
+"clip": "056497.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.4363573789596558,
+"onset_ratio": 0.9593536483015909
+},
+{
+"clip": "056497.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.153557300567627,
+"onset_ratio": 0.9700629732418392
+},
+{
+"clip": "056497.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.7519795894622803,
+"onset_ratio": 0.9536345855437737
+},
+{
+"clip": "056497.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.5884473323822021,
+"onset_ratio": 0.8631357208910359
+},
+{
+"clip": "056497.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.8677839040756226,
+"onset_ratio": 0.9070042144579248
+},
+{
+"clip": "056497.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.651134986488614e-06,
+"onset_ratio": 0.9500860599920237
+},
+{
+"clip": "056497.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.090158992970828e-06,
+"onset_ratio": 0.970264181789331
+},
+{
+"clip": "056497.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.0018213288276456e-05,
+"onset_ratio": 1.0018846854369312
+},
+{
+"clip": "056497.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.259362751530716e-06,
+"onset_ratio": 0.9471226837209361
+},
+{
+"clip": "056497.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 8.445266757917125e-06,
+"onset_ratio": 0.958581317030834
+},
+{
+"clip": "056497.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 6.395034233719343e-06,
+"onset_ratio": 0.9598579272237421
+},
+{
+"clip": "085966.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.6369359493255615,
+"onset_ratio": 0.6477734791573945
+},
+{
+"clip": "085966.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.165340900421143,
+"onset_ratio": 0.603242047653823
+},
+{
+"clip": "085966.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.702852249145508,
+"onset_ratio": 0.6064640590174791
+},
+{
+"clip": "085966.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.8717002868652344,
+"onset_ratio": 0.6161771538192783
+},
+{
+"clip": "085966.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.180893421173096,
+"onset_ratio": 0.600904590549836
+},
+{
+"clip": "085966.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.16929292678833,
+"onset_ratio": 0.6311452257479434
+},
+{
+"clip": "085966.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.025085687637329,
+"onset_ratio": 0.9548401024286381
+},
+{
+"clip": "085966.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.9005188941955566,
+"onset_ratio": 0.931486356871867
+},
+{
+"clip": "085966.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.5487236976623535,
+"onset_ratio": 0.8524374599526211
+},
+{
+"clip": "085966.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.531832695007324,
+"onset_ratio": 0.616150959266318
+},
+{
+"clip": "085966.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.894284248352051,
+"onset_ratio": 0.6008944218569167
+},
+{
+"clip": "085966.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.289934158325195,
+"onset_ratio": 0.6308518386198341
+},
+{
+"clip": "085966.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.720885753631592,
+"onset_ratio": 1.0250969847507203
+},
+{
+"clip": "085966.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.4114859104156494,
+"onset_ratio": 1.0294592726635816
+},
+{
+"clip": "085966.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.070050597190857,
+"onset_ratio": 1.0137729656166363
+},
+{
+"clip": "085966.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.263536810874939,
+"onset_ratio": 1.0684196840643534
+},
+{
+"clip": "085966.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.3083202838897705,
+"onset_ratio": 0.9768331141737125
+},
+{
+"clip": "085966.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.5062116384506226,
+"onset_ratio": 0.9765801984434223
+},
+{
+"clip": "085966.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.2874066829681396,
+"onset_ratio": 0.9632998854907406
+},
+{
+"clip": "085966.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.3042595386505127,
+"onset_ratio": 0.9755492556804861
+},
+{
+"clip": "085966.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.4686830043792725,
+"onset_ratio": 0.9821300269901778
+},
+{
+"clip": "085966.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.3997671604156494,
+"onset_ratio": 1.001355364571233
+},
+{
+"clip": "085966.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.5893651247024536,
+"onset_ratio": 0.9920050480580249
+},
+{
+"clip": "085966.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.9493342638015747,
+"onset_ratio": 0.9718828317614823
+},
+{
+"clip": "085966.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.977398359391373e-06,
+"onset_ratio": 1.0060895012467694
+},
+{
+"clip": "085966.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 6.893423687870381e-06,
+"onset_ratio": 0.9893524021483094
+},
+{
+"clip": "085966.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.5471276128664613e-05,
+"onset_ratio": 1.042051368479481
+},
+{
+"clip": "085966.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 8.783031262282748e-06,
+"onset_ratio": 1.0270912688060647
+},
+{
+"clip": "085966.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.655221603868995e-05,
+"onset_ratio": 0.9926900925626162
+},
+{
+"clip": "085966.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 9.655578651290853e-06,
+"onset_ratio": 0.9771719350217856
+},
+{
+"clip": "082631.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.276121139526367,
+"onset_ratio": 0.7179263302619205
+},
+{
+"clip": "082631.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.175827980041504,
+"onset_ratio": 0.6556175984437481
+},
+{
+"clip": "082631.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.356559753417969,
+"onset_ratio": 0.6392098889545429
+},
+{
+"clip": "082631.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.6433908939361572,
+"onset_ratio": 0.6507821305725148
+},
+{
+"clip": "082631.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.7179489135742188,
+"onset_ratio": 0.6524466821361138
+},
+{
+"clip": "082631.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.904758453369141,
+"onset_ratio": 0.7167248147052845
+},
+{
+"clip": "082631.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.41533899307251,
+"onset_ratio": 0.9069812108538313
+},
+{
+"clip": "082631.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.142014980316162,
+"onset_ratio": 0.9584560891398023
+},
+{
+"clip": "082631.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.537779331207275,
+"onset_ratio": 0.9493873517321196
+},
+{
+"clip": "082631.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.027857780456543,
+"onset_ratio": 0.6506426938529858
+},
+{
+"clip": "082631.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.660078287124634,
+"onset_ratio": 0.6524880695520449
+},
+{
+"clip": "082631.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.433825492858887,
+"onset_ratio": 0.7167332751162759
+},
+{
+"clip": "082631.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.916549801826477,
+"onset_ratio": 1.0233806428406689
+},
+{
+"clip": "082631.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.9509567618370056,
+"onset_ratio": 1.0346075624943367
+},
+{
+"clip": "082631.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.8920633792877197,
+"onset_ratio": 1.0053858517133754
+},
+{
+"clip": "082631.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.035204529762268,
+"onset_ratio": 1.0856331700906876
+},
+{
+"clip": "082631.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.9787551164627075,
+"onset_ratio": 1.0663974881966842
+},
+{
+"clip": "082631.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.5602765083312988,
+"onset_ratio": 0.9639736490647496
+},
+{
+"clip": "082631.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.1497424840927124,
+"onset_ratio": 0.9225910807205696
+},
+{
+"clip": "082631.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.1270246505737305,
+"onset_ratio": 1.0933040646747818
+},
+{
+"clip": "082631.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.9990947246551514,
+"onset_ratio": 1.013770530593438
+},
+{
+"clip": "082631.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.3293936252593994,
+"onset_ratio": 1.0231722880705234
+},
+{
+"clip": "082631.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.922178030014038,
+"onset_ratio": 1.0473914721621345
+},
+{
+"clip": "082631.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.1307027339935303,
+"onset_ratio": 1.0402095436013932
+},
+{
+"clip": "082631.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.8895378717570566e-06,
+"onset_ratio": 1.03884096922664
+},
+{
+"clip": "082631.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 7.945023753563873e-06,
+"onset_ratio": 1.0640804331518654
+},
+{
+"clip": "082631.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 9.27097335079452e-06,
+"onset_ratio": 1.0048644160045956
+},
+{
+"clip": "082631.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 8.79425624589203e-06,
+"onset_ratio": 0.972255888373889
+},
+{
+"clip": "082631.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 7.924398232717067e-06,
+"onset_ratio": 1.0530483316107568
+},
+{
+"clip": "082631.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.2650144526560325e-05,
+"onset_ratio": 0.924732342144572
+},
+{
+"clip": "044947.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.5858051776885986,
+"onset_ratio": 0.683169356910184
+},
+{
+"clip": "044947.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.8665640354156494,
+"onset_ratio": 0.6516599663577916
+},
+{
+"clip": "044947.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.9371585845947266,
+"onset_ratio": 0.6397601102157671
+},
+{
+"clip": "044947.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.985602855682373,
+"onset_ratio": 0.6394354406621959
+},
+{
+"clip": "044947.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.101835250854492,
+"onset_ratio": 0.6443288831864316
+},
+{
+"clip": "044947.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.283236980438232,
+"onset_ratio": 0.6532171093581773
+},
+{
+"clip": "044947.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.373733043670654,
+"onset_ratio": 0.9535473517363352
+},
+{
+"clip": "044947.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.809017658233643,
+"onset_ratio": 0.961021706833147
+},
+{
+"clip": "044947.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.545462131500244,
+"onset_ratio": 0.9514380729968691
+},
+{
+"clip": "044947.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.2433600425720215,
+"onset_ratio": 0.6394501671441948
+},
+{
+"clip": "044947.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.138106822967529,
+"onset_ratio": 0.6443281103681342
+},
+{
+"clip": "044947.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.187805652618408,
+"onset_ratio": 0.6532713354420389
+},
+{
+"clip": "044947.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.7125601172447205,
+"onset_ratio": 1.0124525927819228
+},
+{
+"clip": "044947.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.161484718322754,
+"onset_ratio": 1.0239709342911738
+},
+{
+"clip": "044947.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 0.9736191034317017,
+"onset_ratio": 1.020569932702099
+},
+{
+"clip": "044947.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.355287790298462,
+"onset_ratio": 1.0217290742793688
+},
+{
+"clip": "044947.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.0299042463302612,
+"onset_ratio": 0.9921460192017284
+},
+{
+"clip": "044947.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.5126097202301025,
+"onset_ratio": 0.9651924354463455
+},
+{
+"clip": "044947.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.596875786781311,
+"onset_ratio": 1.011969924820901
+},
+{
+"clip": "044947.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.9688665866851807,
+"onset_ratio": 0.9813927678068173
+},
+{
+"clip": "044947.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.5475337505340576,
+"onset_ratio": 0.9850703524776303
+},
+{
+"clip": "044947.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.812342643737793,
+"onset_ratio": 1.0004057294260096
+},
+{
+"clip": "044947.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.3002376556396484,
+"onset_ratio": 0.9983285655802319
+},
+{
+"clip": "044947.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.0688347816467285,
+"onset_ratio": 0.9872339861040075
+},
+{
+"clip": "044947.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.8483486858021934e-06,
+"onset_ratio": 1.0003356605670533
+},
+{
+"clip": "044947.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.044963250431465e-06,
+"onset_ratio": 1.0066201330921023
+},
+{
+"clip": "044947.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 6.716791631333763e-06,
+"onset_ratio": 1.0078346599806793
+},
+{
+"clip": "044947.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.40794997807825e-06,
+"onset_ratio": 1.0190053191248392
+},
+{
+"clip": "044947.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.751318101625657e-06,
+"onset_ratio": 0.9905243888078668
+},
+{
+"clip": "044947.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 9.159191904473118e-06,
+"onset_ratio": 0.9883313880861918
+},
+{
+"clip": "121664.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.6380410194396973,
+"onset_ratio": 0.8111736084471896
+},
+{
+"clip": "121664.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.360452651977539,
+"onset_ratio": 0.73924844994934
+},
+{
+"clip": "121664.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.9963228702545166,
+"onset_ratio": 0.7557372279963187
+},
+{
+"clip": "121664.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.247697353363037,
+"onset_ratio": 0.7123488988400076
+},
+{
+"clip": "121664.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.981926202774048,
+"onset_ratio": 0.7460106872100896
+},
+{
+"clip": "121664.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.6036033630371094,
+"onset_ratio": 0.7264466259440612
+},
+{
+"clip": "121664.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.521921157836914,
+"onset_ratio": 1.0033900387079704
+},
+{
+"clip": "121664.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.129382133483887,
+"onset_ratio": 1.0633196432393432
+},
+{
+"clip": "121664.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.554681777954102,
+"onset_ratio": 1.1156928245466842
+},
+{
+"clip": "121664.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.7054288387298584,
+"onset_ratio": 0.6855763445243445
+},
+{
+"clip": "121664.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.699110507965088,
+"onset_ratio": 0.7195797360292826
+},
+{
+"clip": "121664.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.198189735412598,
+"onset_ratio": 0.7211260986933099
+},
+{
+"clip": "121664.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.7350685596466064,
+"onset_ratio": 1.0531874879182173
+},
+{
+"clip": "121664.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.8778605461120605,
+"onset_ratio": 1.0560645238983164
+},
+{
+"clip": "121664.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 0.9043556451797485,
+"onset_ratio": 1.0767408331153625
+},
+{
+"clip": "121664.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.7206527590751648,
+"onset_ratio": 0.9519990305387419
+},
+{
+"clip": "121664.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.9444286227226257,
+"onset_ratio": 0.957009646852698
+},
+{
+"clip": "121664.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.704944372177124,
+"onset_ratio": 1.0114261769299917
+},
+{
+"clip": "121664.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.931339979171753,
+"onset_ratio": 1.0810683001599624
+},
+{
+"clip": "121664.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.07942533493042,
+"onset_ratio": 1.0867364155829735
+},
+{
+"clip": "121664.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.681774854660034,
+"onset_ratio": 0.9975945844891525
+},
+{
+"clip": "121664.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.529485821723938,
+"onset_ratio": 0.9289671246003425
+},
+{
+"clip": "121664.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.4540905952453613,
+"onset_ratio": 0.9460025930638748
+},
+{
+"clip": "121664.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.3163087368011475,
+"onset_ratio": 0.9614169143960128
+},
+{
+"clip": "121664.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.3416351066553034e-05,
+"onset_ratio": 0.9276785745475208
+},
+{
+"clip": "121664.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.5810415789019316e-05,
+"onset_ratio": 0.9723777408959375
+},
+{
+"clip": "121664.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.493228592153173e-05,
+"onset_ratio": 0.9454069963416801
+},
+{
+"clip": "121664.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.667551987338811e-05,
+"onset_ratio": 0.990274940744879
+},
+{
+"clip": "121664.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.3776490050076973e-05,
+"onset_ratio": 0.9689790376556674
+},
+{
+"clip": "121664.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.5577752492390573e-05,
+"onset_ratio": 0.9436183251633405
+},
+{
+"clip": "054063.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.9365317821502686,
+"onset_ratio": 0.703436966403436
+},
+{
+"clip": "054063.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.406529426574707,
+"onset_ratio": 0.689207785187137
+},
+{
+"clip": "054063.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.591963768005371,
+"onset_ratio": 0.6612621100762025
+},
+{
+"clip": "054063.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.847585678100586,
+"onset_ratio": 0.6750766801644141
+},
+{
+"clip": "054063.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.26106595993042,
+"onset_ratio": 0.6682099113527156
+},
+{
+"clip": "054063.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.023861885070801,
+"onset_ratio": 0.6856676532169381
+},
+{
+"clip": "054063.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.237664222717285,
+"onset_ratio": 0.9486422215753576
+},
+{
+"clip": "054063.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.364295482635498,
+"onset_ratio": 0.9525267564716571
+},
+{
+"clip": "054063.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.061888694763184,
+"onset_ratio": 0.9321947841100833
+},
+{
+"clip": "054063.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.7814149856567383,
+"onset_ratio": 0.6750792516743677
+},
+{
+"clip": "054063.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.6601474285125732,
+"onset_ratio": 0.6682112868115279
+},
+{
+"clip": "054063.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.226153373718262,
+"onset_ratio": 0.6856517457367605
+},
+{
+"clip": "054063.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.3397183418273926,
+"onset_ratio": 1.0212099932534782
+},
+{
+"clip": "054063.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.5808592438697815,
+"onset_ratio": 1.0205870898191558
+},
+{
+"clip": "054063.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.471001386642456,
+"onset_ratio": 0.9967777183697375
+},
+{
+"clip": "054063.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.445189505815506,
+"onset_ratio": 0.9708222125551568
+},
+{
+"clip": "054063.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.6697309613227844,
+"onset_ratio": 0.9787049670087241
+},
+{
+"clip": "054063.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.0981426239013672,
+"onset_ratio": 0.9506258125904349
+},
+{
+"clip": "054063.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.5865416526794434,
+"onset_ratio": 0.951811517889236
+},
+{
+"clip": "054063.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.1495306491851807,
+"onset_ratio": 0.9795304217038042
+},
+{
+"clip": "054063.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.161259651184082,
+"onset_ratio": 1.0115677877686893
+},
+{
+"clip": "054063.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.591593027114868,
+"onset_ratio": 0.9567282449203672
+},
+{
+"clip": "054063.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.3317281007766724,
+"onset_ratio": 0.9932456597447414
+},
+{
+"clip": "054063.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.6380274295806885,
+"onset_ratio": 0.9857457014589063
+},
+{
+"clip": "054063.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.2252569326374214e-06,
+"onset_ratio": 0.9800122509060255
+},
+{
+"clip": "054063.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.716927378467517e-06,
+"onset_ratio": 0.9654329855207053
+},
+{
+"clip": "054063.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.323010671214433e-06,
+"onset_ratio": 0.9496175414784266
+},
+{
+"clip": "054063.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.398876626510173e-06,
+"onset_ratio": 0.9695368163937388
+},
+{
+"clip": "054063.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.9893711800687015e-06,
+"onset_ratio": 0.9673486408309641
+},
+{
+"clip": "054063.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.2473760661087e-06,
+"onset_ratio": 0.9301779428732815
+},
+{
+"clip": "148031.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.231635570526123,
+"onset_ratio": 0.6171529549303797
+},
+{
+"clip": "148031.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.99327278137207,
+"onset_ratio": 0.5733703893001397
+},
+{
+"clip": "148031.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.812654495239258,
+"onset_ratio": 0.5819893157361999
+},
+{
+"clip": "148031.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.899700164794922,
+"onset_ratio": 0.5757927517107968
+},
+{
+"clip": "148031.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.825055122375488,
+"onset_ratio": 0.5766220712714898
+},
+{
+"clip": "148031.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.200343132019043,
+"onset_ratio": 0.5605618402609935
+},
+{
+"clip": "148031.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.070991516113281,
+"onset_ratio": 0.9402532478116029
+},
+{
+"clip": "148031.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.9138407707214355,
+"onset_ratio": 0.93430973579997
+},
+{
+"clip": "148031.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 6.242557048797607,
+"onset_ratio": 0.9547334096040209
+},
+{
+"clip": "148031.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.500818729400635,
+"onset_ratio": 0.5749593944381394
+},
+{
+"clip": "148031.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.277629852294922,
+"onset_ratio": 0.5766388840393416
+},
+{
+"clip": "148031.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.3281450271606445,
+"onset_ratio": 0.560560648805004
+},
+{
+"clip": "148031.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.9034775495529175,
+"onset_ratio": 1.0177239667770228
+},
+{
+"clip": "148031.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.56194269657135,
+"onset_ratio": 0.9991185210049518
+},
+{
+"clip": "148031.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.3553709983825684,
+"onset_ratio": 0.9845492647813189
+},
+{
+"clip": "148031.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.0423394441604614,
+"onset_ratio": 0.9887604659762148
+},
+{
+"clip": "148031.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.4321759939193726,
+"onset_ratio": 0.9493952896190541
+},
+{
+"clip": "148031.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.899705171585083,
+"onset_ratio": 0.9029692141081056
+},
+{
+"clip": "148031.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.9883346557617188,
+"onset_ratio": 1.0383455546593297
+},
+{
+"clip": "148031.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.5902702808380127,
+"onset_ratio": 0.9767054466584293
+},
+{
+"clip": "148031.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.6330108642578125,
+"onset_ratio": 0.9647239004599965
+},
+{
+"clip": "148031.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.396918296813965,
+"onset_ratio": 0.9586432386255721
+},
+{
+"clip": "148031.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.1179986000061035,
+"onset_ratio": 0.9516049771355849
+},
+{
+"clip": "148031.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.137359380722046,
+"onset_ratio": 0.9058425426107892
+},
+{
+"clip": "148031.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 8.161247933458071e-06,
+"onset_ratio": 0.9797386288397045
+},
+{
+"clip": "148031.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.1762800568249077e-05,
+"onset_ratio": 0.9996374000883801
+},
+{
+"clip": "148031.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.436141923884861e-05,
+"onset_ratio": 0.951797794429886
+},
+{
+"clip": "148031.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.8249183995067142e-05,
+"onset_ratio": 0.9777407557213074
+},
+{
+"clip": "148031.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.1852869142312557e-05,
+"onset_ratio": 0.9427643075014784
+},
+{
+"clip": "148031.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.8397204005159438e-05,
+"onset_ratio": 0.903936610179582
+},
+{
+"clip": "113275.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.2679266929626465,
+"onset_ratio": 0.6739518403916631
+},
+{
+"clip": "113275.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.593766212463379,
+"onset_ratio": 0.6492067260549389
+},
+{
+"clip": "113275.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.5537965297698975,
+"onset_ratio": 0.6480624122179816
+},
+{
+"clip": "113275.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.87925386428833,
+"onset_ratio": 0.6632623736759092
+},
+{
+"clip": "113275.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.4240097999572754,
+"onset_ratio": 0.6614968933442533
+},
+{
+"clip": "113275.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.018444061279297,
+"onset_ratio": 0.6615373561285226
+},
+{
+"clip": "113275.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.5529398918151855,
+"onset_ratio": 0.9483999685873792
+},
+{
+"clip": "113275.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 6.951247215270996,
+"onset_ratio": 0.9408646864758031
+},
+{
+"clip": "113275.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.705938339233398,
+"onset_ratio": 0.9561758757646395
+},
+{
+"clip": "113275.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 6.328949451446533,
+"onset_ratio": 0.6632366137645058
+},
+{
+"clip": "113275.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.607781410217285,
+"onset_ratio": 0.6614337785729263
+},
+{
+"clip": "113275.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.17413330078125,
+"onset_ratio": 0.6615461419915767
+},
+{
+"clip": "113275.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.899240016937256,
+"onset_ratio": 0.9504105565679101
+},
+{
+"clip": "113275.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.0488910675048828,
+"onset_ratio": 0.9948746141289105
+},
+{
+"clip": "113275.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.03475022315979,
+"onset_ratio": 0.9817775818652451
+},
+{
+"clip": "113275.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.633751630783081,
+"onset_ratio": 0.9899516021976278
+},
+{
+"clip": "113275.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.9712184071540833,
+"onset_ratio": 0.9910317852110682
+},
+{
+"clip": "113275.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.338775396347046,
+"onset_ratio": 0.9605740668559388
+},
+{
+"clip": "113275.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.1430214643478394,
+"onset_ratio": 0.9586342439220473
+},
+{
+"clip": "113275.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.769901990890503,
+"onset_ratio": 0.9579405193474331
+},
+{
+"clip": "113275.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.9501649141311646,
+"onset_ratio": 1.0052637477708781
+},
+{
+"clip": "113275.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.730800747871399,
+"onset_ratio": 0.9590174151332002
+},
+{
+"clip": "113275.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.3176437616348267,
+"onset_ratio": 0.9822637329542355
+},
+{
+"clip": "113275.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.537390947341919,
+"onset_ratio": 0.9945521669780495
+},
+{
+"clip": "113275.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.819681180379121e-06,
+"onset_ratio": 0.9403631153006361
+},
+{
+"clip": "113275.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.2342084018164314e-06,
+"onset_ratio": 0.958880009016457
+},
+{
+"clip": "113275.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.199817678658292e-06,
+"onset_ratio": 0.9667694152001094
+},
+{
+"clip": "113275.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.558604359772289e-06,
+"onset_ratio": 0.9756724230948742
+},
+{
+"clip": "113275.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.489284947339911e-06,
+"onset_ratio": 0.9745243438880365
+},
+{
+"clip": "113275.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.866357357968809e-06,
+"onset_ratio": 0.9363935189301569
+},
+{
+"clip": "127062.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.4389231204986572,
+"onset_ratio": 0.7292499415906825
+},
+{
+"clip": "127062.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.359230041503906,
+"onset_ratio": 0.6958831876180527
+},
+{
+"clip": "127062.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.8401501178741455,
+"onset_ratio": 0.6911114661853366
+},
+{
+"clip": "127062.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.9306678771972656,
+"onset_ratio": 0.6843539451611815
+},
+{
+"clip": "127062.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.8368072509765625,
+"onset_ratio": 0.7318232648893571
+},
+{
+"clip": "127062.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.982208251953125,
+"onset_ratio": 0.6916014412242677
+},
+{
+"clip": "127062.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.637361526489258,
+"onset_ratio": 0.964847594209822
+},
+{
+"clip": "127062.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.487001895904541,
+"onset_ratio": 0.9689598490583169
+},
+{
+"clip": "127062.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.9835164546966553,
+"onset_ratio": 0.9677936697046007
+},
+{
+"clip": "127062.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.996446371078491,
+"onset_ratio": 0.6843091350263734
+},
+{
+"clip": "127062.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.254576206207275,
+"onset_ratio": 0.731796543249334
+},
+{
+"clip": "127062.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.06296443939209,
+"onset_ratio": 0.6915946874031629
+},
+{
+"clip": "127062.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.6951696872711182,
+"onset_ratio": 0.9924881062765551
+},
+{
+"clip": "127062.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.9613072872161865,
+"onset_ratio": 1.018014261235342
+},
+{
+"clip": "127062.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.1643249988555908,
+"onset_ratio": 1.017169974868367
+},
+{
+"clip": "127062.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.5895496606826782,
+"onset_ratio": 1.007059798318926
+},
+{
+"clip": "127062.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.7855848670005798,
+"onset_ratio": 0.9908402913847503
+},
+{
+"clip": "127062.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.1470953226089478,
+"onset_ratio": 0.8747179102955817
+},
+{
+"clip": "127062.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.900889277458191,
+"onset_ratio": 0.9707577162364059
+},
+{
+"clip": "127062.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.2710922956466675,
+"onset_ratio": 0.9734762760532727
+},
+{
+"clip": "127062.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.992756962776184,
+"onset_ratio": 0.9834058025703808
+},
+{
+"clip": "127062.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.4572045803070068,
+"onset_ratio": 0.9992756377579671
+},
+{
+"clip": "127062.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.3500206470489502,
+"onset_ratio": 1.0057602456806105
+},
+{
+"clip": "127062.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.7930333614349365,
+"onset_ratio": 0.9118756721476362
+},
+{
+"clip": "127062.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.286288458388299e-06,
+"onset_ratio": 0.9854070478570421
+},
+{
+"clip": "127062.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 6.752363333362155e-06,
+"onset_ratio": 0.9873734081894753
+},
+{
+"clip": "127062.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.720446552004432e-06,
+"onset_ratio": 0.969994416993809
+},
+{
+"clip": "127062.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 6.375993052643025e-06,
+"onset_ratio": 0.9884441531145371
+},
+{
+"clip": "127062.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.97281110053882e-06,
+"onset_ratio": 0.9964340996681145
+},
+{
+"clip": "127062.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 9.401810530107468e-06,
+"onset_ratio": 0.8804917813224868
+},
+{
+"clip": "095251.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.6803414821624756,
+"onset_ratio": 0.7835862161905621
+},
+{
+"clip": "095251.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.29958438873291,
+"onset_ratio": 0.7210364597276558
+},
+{
+"clip": "095251.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.5334391593933105,
+"onset_ratio": 0.7146247717689819
+},
+{
+"clip": "095251.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.355819225311279,
+"onset_ratio": 0.7450348870071042
+},
+{
+"clip": "095251.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.102554798126221,
+"onset_ratio": 0.7569079266662417
+},
+{
+"clip": "095251.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.239607334136963,
+"onset_ratio": 0.7747831353263297
+},
+{
+"clip": "095251.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.124886512756348,
+"onset_ratio": 0.9712247351691203
+},
+{
+"clip": "095251.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.305649280548096,
+"onset_ratio": 0.9713502999597978
+},
+{
+"clip": "095251.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.586515426635742,
+"onset_ratio": 0.956044009311723
+},
+{
+"clip": "095251.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.105846881866455,
+"onset_ratio": 0.7449930320768784
+},
+{
+"clip": "095251.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.504708766937256,
+"onset_ratio": 0.7568528128968176
+},
+{
+"clip": "095251.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.3549113273620605,
+"onset_ratio": 0.7747408503796974
+},
+{
+"clip": "095251.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.2155373096466064,
+"onset_ratio": 1.014910746922957
+},
+{
+"clip": "095251.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.0309395790100098,
+"onset_ratio": 1.0418306339982901
+},
+{
+"clip": "095251.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.8213703632354736,
+"onset_ratio": 1.0342604818406935
+},
+{
+"clip": "095251.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.4208190441131592,
+"onset_ratio": 0.9857565662692147
+},
+{
+"clip": "095251.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.7049767971038818,
+"onset_ratio": 0.9888875873938329
+},
+{
+"clip": "095251.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.329355001449585,
+"onset_ratio": 0.9751488498859976
+},
+{
+"clip": "095251.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.555925130844116,
+"onset_ratio": 0.991561572747817
+},
+{
+"clip": "095251.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.4420002698898315,
+"onset_ratio": 0.9900062750751606
+},
+{
+"clip": "095251.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.1155545711517334,
+"onset_ratio": 1.0151638115781412
+},
+{
+"clip": "095251.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.5756430625915527,
+"onset_ratio": 0.902763256489416
+},
+{
+"clip": "095251.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.3125118017196655,
+"onset_ratio": 0.964905715746032
+},
+{
+"clip": "095251.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.916509747505188,
+"onset_ratio": 1.0076663321932313
+},
+{
+"clip": "095251.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.861471330106724e-06,
+"onset_ratio": 0.9898951875034995
+},
+{
+"clip": "095251.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.1789991226105485e-06,
+"onset_ratio": 0.9894630926844384
+},
+{
+"clip": "095251.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.392958089738386e-06,
+"onset_ratio": 0.96421876453676
+},
+{
+"clip": "095251.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.5406474125920795e-06,
+"onset_ratio": 0.9576443153682523
+},
+{
+"clip": "095251.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.0429822547594085e-06,
+"onset_ratio": 0.9310894405525774
+},
+{
+"clip": "095251.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.154859991307603e-06,
+"onset_ratio": 0.9643340089336833
+},
+{
+"clip": "001661.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.7087197303771973,
+"onset_ratio": 0.8350200104012672
+},
+{
+"clip": "001661.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.7231597900390625,
+"onset_ratio": 0.7862643010415512
+},
+{
+"clip": "001661.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.334641218185425,
+"onset_ratio": 0.798480736658795
+},
+{
+"clip": "001661.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.627995252609253,
+"onset_ratio": 0.8069415263867392
+},
+{
+"clip": "001661.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.114961624145508,
+"onset_ratio": 0.8214293479287413
+},
+{
+"clip": "001661.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.8170535564422607,
+"onset_ratio": 0.8216927538315395
+},
+{
+"clip": "001661.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 6.308493614196777,
+"onset_ratio": 0.9912640442210906
+},
+{
+"clip": "001661.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.516810417175293,
+"onset_ratio": 0.9849987269581798
+},
+{
+"clip": "001661.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.354093551635742,
+"onset_ratio": 1.0118695520505094
+},
+{
+"clip": "001661.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.747947931289673,
+"onset_ratio": 0.8081652513575048
+},
+{
+"clip": "001661.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.4595959186553955,
+"onset_ratio": 0.8224777818197785
+},
+{
+"clip": "001661.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.6955366134643555,
+"onset_ratio": 0.8216067369804476
+},
+{
+"clip": "001661.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.5583528876304626,
+"onset_ratio": 0.9984424209726782
+},
+{
+"clip": "001661.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.7737874984741211,
+"onset_ratio": 1.0300708944128874
+},
+{
+"clip": "001661.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.0041764974594116,
+"onset_ratio": 1.0422097602767397
+},
+{
+"clip": "001661.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.7858370542526245,
+"onset_ratio": 0.9747057451761041
+},
+{
+"clip": "001661.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.214916706085205,
+"onset_ratio": 1.013698100258574
+},
+{
+"clip": "001661.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.798977255821228,
+"onset_ratio": 0.9803687236422157
+},
+{
+"clip": "001661.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.810464859008789,
+"onset_ratio": 1.0058204363208951
+},
+{
+"clip": "001661.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.8249720335006714,
+"onset_ratio": 1.006093614356327
+},
+{
+"clip": "001661.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.1088979244232178,
+"onset_ratio": 1.0329526245538339
+},
+{
+"clip": "001661.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.1683013439178467,
+"onset_ratio": 0.9990458639652551
+},
+{
+"clip": "001661.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.2088797092437744,
+"onset_ratio": 1.0129500076191031
+},
+{
+"clip": "001661.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.726312518119812,
+"onset_ratio": 1.0110018750083007
+},
+{
+"clip": "001661.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.0101622340007452e-06,
+"onset_ratio": 1.0072315985249451
+},
+{
+"clip": "001661.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.074810592806898e-06,
+"onset_ratio": 1.000433285960082
+},
+{
+"clip": "001661.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.753088771598414e-06,
+"onset_ratio": 0.9424822206312293
+},
+{
+"clip": "001661.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.268137106715585e-06,
+"onset_ratio": 0.9693090987316018
+},
+{
+"clip": "001661.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.126724888919853e-06,
+"onset_ratio": 0.9827046498101873
+},
+{
+"clip": "001661.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.050856189976912e-05,
+"onset_ratio": 0.9651696895997218
+},
+{
+"clip": "007483.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.2284417152404785,
+"onset_ratio": 0.6186619511748813
+},
+{
+"clip": "007483.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.462634086608887,
+"onset_ratio": 0.6296970643889372
+},
+{
+"clip": "007483.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.262738227844238,
+"onset_ratio": 0.6645976968033996
+},
+{
+"clip": "007483.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.363461494445801,
+"onset_ratio": 0.6235967577789435
+},
+{
+"clip": "007483.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.976062774658203,
+"onset_ratio": 0.6289084453059763
+},
+{
+"clip": "007483.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.098196029663086,
+"onset_ratio": 0.6319702038741902
+},
+{
+"clip": "007483.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.69004225730896,
+"onset_ratio": 0.9153061151845969
+},
+{
+"clip": "007483.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.410547256469727,
+"onset_ratio": 0.9108819401620809
+},
+{
+"clip": "007483.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.379169940948486,
+"onset_ratio": 0.9217310375857165
+},
+{
+"clip": "007483.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.399796962738037,
+"onset_ratio": 0.6235916183052331
+},
+{
+"clip": "007483.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.611597537994385,
+"onset_ratio": 0.6289075334638664
+},
+{
+"clip": "007483.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.187164783477783,
+"onset_ratio": 0.6320788788747432
+},
+{
+"clip": "007483.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.9163063764572144,
+"onset_ratio": 0.9952667103283838
+},
+{
+"clip": "007483.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.9939121007919312,
+"onset_ratio": 0.994533257693072
+},
+{
+"clip": "007483.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.1892749071121216,
+"onset_ratio": 0.9847765471171013
+},
+{
+"clip": "007483.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.0280120372772217,
+"onset_ratio": 1.036981911856475
+},
+{
+"clip": "007483.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.0865113735198975,
+"onset_ratio": 0.9979912116580391
+},
+{
+"clip": "007483.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.5793166160583496,
+"onset_ratio": 0.9482152429836608
+},
+{
+"clip": "007483.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.3000028133392334,
+"onset_ratio": 0.9865663273893679
+},
+{
+"clip": "007483.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 2.8987910747528076,
+"onset_ratio": 1.0062645209106709
+},
+{
+"clip": "007483.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.207981586456299,
+"onset_ratio": 0.9854557036995051
+},
+{
+"clip": "007483.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.8106693029403687,
+"onset_ratio": 0.9784786194534701
+},
+{
+"clip": "007483.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.046434164047241,
+"onset_ratio": 1.0083699643424386
+},
+{
+"clip": "007483.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.5096471309661865,
+"onset_ratio": 0.9335756179091551
+},
+{
+"clip": "007483.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.727965577127179e-06,
+"onset_ratio": 1.0082076564468758
+},
+{
+"clip": "007483.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.812118731933879e-06,
+"onset_ratio": 1.0307884315617966
+},
+{
+"clip": "007483.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.391575086832745e-06,
+"onset_ratio": 1.0390712737092136
+},
+{
+"clip": "007483.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.600729309662711e-06,
+"onset_ratio": 1.0342285631582517
+},
+{
+"clip": "007483.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.902242835669313e-06,
+"onset_ratio": 1.0323543131487132
+},
+{
+"clip": "007483.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 7.774430741847027e-06,
+"onset_ratio": 1.0091330103989538
+},
+{
+"clip": "135229.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.524044036865234,
+"onset_ratio": 0.7152900183378548
+},
+{
+"clip": "135229.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 6.724276542663574,
+"onset_ratio": 0.6606415949966838
+},
+{
+"clip": "135229.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 7.070913314819336,
+"onset_ratio": 0.695442379407983
+},
+{
+"clip": "135229.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 6.891962051391602,
+"onset_ratio": 0.6292285876786208
+},
+{
+"clip": "135229.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 6.62629508972168,
+"onset_ratio": 0.6358714989083053
+},
+{
+"clip": "135229.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 7.290786266326904,
+"onset_ratio": 0.6701717856711995
+},
+{
+"clip": "135229.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.7341315746307373,
+"onset_ratio": 0.9984309718355989
+},
+{
+"clip": "135229.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.490245342254639,
+"onset_ratio": 1.0338237427127537
+},
+{
+"clip": "135229.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.038957118988037,
+"onset_ratio": 0.9991329137198895
+},
+{
+"clip": "135229.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.900177955627441,
+"onset_ratio": 0.6291073412527263
+},
+{
+"clip": "135229.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.431410312652588,
+"onset_ratio": 0.6358412664444073
+},
+{
+"clip": "135229.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 7.434162616729736,
+"onset_ratio": 0.6700601418778172
+},
+{
+"clip": "135229.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.550110340118408,
+"onset_ratio": 1.017097856298503
+},
+{
+"clip": "135229.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.2989133596420288,
+"onset_ratio": 1.0217367719893176
+},
+{
+"clip": "135229.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.1094235181808472,
+"onset_ratio": 1.0486066261331013
+},
+{
+"clip": "135229.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.6206998229026794,
+"onset_ratio": 1.0120832771819406
+},
+{
+"clip": "135229.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.442138671875,
+"onset_ratio": 1.0114378958583805
+},
+{
+"clip": "135229.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.3135018348693848,
+"onset_ratio": 1.0004556499675719
+},
+{
+"clip": "135229.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.684884548187256,
+"onset_ratio": 1.0292769489799947
+},
+{
+"clip": "135229.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.0912225246429443,
+"onset_ratio": 1.0096696396715108
+},
+{
+"clip": "135229.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.0421359539031982,
+"onset_ratio": 1.0755450705091145
+},
+{
+"clip": "135229.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.5353198051452637,
+"onset_ratio": 0.9596219852996914
+},
+{
+"clip": "135229.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.7320939302444458,
+"onset_ratio": 1.008298362644097
+},
+{
+"clip": "135229.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.052117347717285,
+"onset_ratio": 0.9847345576937623
+},
+{
+"clip": "135229.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.4268586710386444e-05,
+"onset_ratio": 1.0213642742665956
+},
+{
+"clip": "135229.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 8.68692859512521e-06,
+"onset_ratio": 1.0676762935443422
+},
+{
+"clip": "135229.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 9.366119229525793e-06,
+"onset_ratio": 1.0683810845613562
+},
+{
+"clip": "135229.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 7.849997928133234e-06,
+"onset_ratio": 1.0460364973697547
+},
+{
+"clip": "135229.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 8.664674169267528e-06,
+"onset_ratio": 1.0563915119676857
+},
+{
+"clip": "135229.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.1839383660117164e-05,
+"onset_ratio": 1.0222691377148505
+},
+{
+"clip": "084159.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 4.329880237579346,
+"onset_ratio": 0.7837813539238427
+},
+{
+"clip": "084159.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.274785995483398,
+"onset_ratio": 0.7475890118867372
+},
+{
+"clip": "084159.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.0091352462768555,
+"onset_ratio": 0.7767089686487466
+},
+{
+"clip": "084159.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 4.3702239990234375,
+"onset_ratio": 0.7353111902928738
+},
+{
+"clip": "084159.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 4.085350513458252,
+"onset_ratio": 0.746971491305602
+},
+{
+"clip": "084159.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.7186496257781982,
+"onset_ratio": 0.7327003273063394
+},
+{
+"clip": "084159.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 3.8834214210510254,
+"onset_ratio": 0.9601464090316566
+},
+{
+"clip": "084159.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 5.282686710357666,
+"onset_ratio": 1.0248247192414555
+},
+{
+"clip": "084159.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 4.634027004241943,
+"onset_ratio": 1.0172170939748353
+},
+{
+"clip": "084159.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.4348342418670654,
+"onset_ratio": 0.7353653504208622
+},
+{
+"clip": "084159.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.3855903148651123,
+"onset_ratio": 0.7469683998383623
+},
+{
+"clip": "084159.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.08818244934082,
+"onset_ratio": 0.7320508219295316
+},
+{
+"clip": "084159.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.1446936130523682,
+"onset_ratio": 1.0088968855094582
+},
+{
+"clip": "084159.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.3176411390304565,
+"onset_ratio": 1.036558383149834
+},
+{
+"clip": "084159.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 0.8525110483169556,
+"onset_ratio": 1.0856131907968694
+},
+{
+"clip": "084159.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.5654522180557251,
+"onset_ratio": 1.0055240947509176
+},
+{
+"clip": "084159.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.8465132117271423,
+"onset_ratio": 0.901350625917418
+},
+{
+"clip": "084159.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.2910332679748535,
+"onset_ratio": 0.9112196594698975
+},
+{
+"clip": "084159.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.0312823057174683,
+"onset_ratio": 1.0140530961575622
+},
+{
+"clip": "084159.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.2421642541885376,
+"onset_ratio": 1.0114428276839584
+},
+{
+"clip": "084159.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.2832248210906982,
+"onset_ratio": 1.030223015554947
+},
+{
+"clip": "084159.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 2.4373230934143066,
+"onset_ratio": 1.0089362422654717
+},
+{
+"clip": "084159.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.0446383953094482,
+"onset_ratio": 0.989871401603256
+},
+{
+"clip": "084159.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.0005946159362793,
+"onset_ratio": 0.9668905637177042
+},
+{
+"clip": "084159.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.4732465388078708e-05,
+"onset_ratio": 1.020867997882365
+},
+{
+"clip": "084159.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.643968789721839e-05,
+"onset_ratio": 0.9844405259811612
+},
+{
+"clip": "084159.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.6792786482255906e-05,
+"onset_ratio": 1.019643182342503
+},
+{
+"clip": "084159.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.761143903422635e-05,
+"onset_ratio": 1.0520435425536196
+},
+{
+"clip": "084159.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.5487194104935043e-05,
+"onset_ratio": 0.9646924710589662
+},
+{
+"clip": "084159.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.1825582734891213e-05,
+"onset_ratio": 1.0159592235160253
+},
+{
+"clip": "123933.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.947137355804443,
+"onset_ratio": 0.6742221299381671
+},
+{
+"clip": "123933.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 6.646886825561523,
+"onset_ratio": 0.6205721406772599
+},
+{
+"clip": "123933.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 6.0580644607543945,
+"onset_ratio": 0.6289417611850743
+},
+{
+"clip": "123933.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 6.09627628326416,
+"onset_ratio": 0.6223190843331399
+},
+{
+"clip": "123933.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 5.707172393798828,
+"onset_ratio": 0.6056812432928997
+},
+{
+"clip": "123933.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 6.026096820831299,
+"onset_ratio": 0.5605424873442374
+},
+{
+"clip": "123933.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.706352710723877,
+"onset_ratio": 0.9422082820128639
+},
+{
+"clip": "123933.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.217973709106445,
+"onset_ratio": 0.9518829872253154
+},
+{
+"clip": "123933.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 5.833193778991699,
+"onset_ratio": 0.9429398276270343
+},
+{
+"clip": "123933.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 5.477479457855225,
+"onset_ratio": 0.6223099231370752
+},
+{
+"clip": "123933.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 6.171532154083252,
+"onset_ratio": 0.6056826415807202
+},
+{
+"clip": "123933.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 5.400475025177002,
+"onset_ratio": 0.5605386782153474
+},
+{
+"clip": "123933.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.8174989819526672,
+"onset_ratio": 1.0136163337254285
+},
+{
+"clip": "123933.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.7441093921661377,
+"onset_ratio": 1.0152515590061417
+},
+{
+"clip": "123933.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.3745830059051514,
+"onset_ratio": 1.0036446128931977
+},
+{
+"clip": "123933.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.7839874625205994,
+"onset_ratio": 1.029505801480832
+},
+{
+"clip": "123933.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.466346025466919,
+"onset_ratio": 0.9661524662155659
+},
+{
+"clip": "123933.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.3764820098876953,
+"onset_ratio": 0.8535956005245875
+},
+{
+"clip": "123933.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.292357325553894,
+"onset_ratio": 0.9988137695578599
+},
+{
+"clip": "123933.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.8448798656463623,
+"onset_ratio": 0.9680357188255233
+},
+{
+"clip": "123933.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.2509100437164307,
+"onset_ratio": 0.9902878783319117
+},
+{
+"clip": "123933.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.8356311321258545,
+"onset_ratio": 0.9243196484088749
+},
+{
+"clip": "123933.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 2.151517152786255,
+"onset_ratio": 0.9226703438163151
+},
+{
+"clip": "123933.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 2.880643844604492,
+"onset_ratio": 0.8120853532530138
+},
+{
+"clip": "123933.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 7.61540513849468e-06,
+"onset_ratio": 0.995288830613123
+},
+{
+"clip": "123933.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 8.284955583803821e-06,
+"onset_ratio": 0.9403905078463579
+},
+{
+"clip": "123933.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.7888805814436637e-05,
+"onset_ratio": 0.909203964203182
+},
+{
+"clip": "123933.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.2781430086761247e-05,
+"onset_ratio": 0.9919871355514343
+},
+{
+"clip": "123933.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.5720261217211373e-05,
+"onset_ratio": 0.936729308164365
+},
+{
+"clip": "123933.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 9.13982239580946e-06,
+"onset_ratio": 0.8058436375069032
+},
+{
+"clip": "083612.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 2.857970952987671,
+"onset_ratio": 0.8627990894312452
+},
+{
+"clip": "083612.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 4.342789173126221,
+"onset_ratio": 0.8373268238346505
+},
+{
+"clip": "083612.mp3",
+"tool": "librosa",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.0057997703552246,
+"onset_ratio": 0.8425397198058658
+},
+{
+"clip": "083612.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.161242723464966,
+"onset_ratio": 0.8697537471994171
+},
+{
+"clip": "083612.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.2080225944519043,
+"onset_ratio": 0.8681916319874498
+},
+{
+"clip": "083612.mp3",
+"tool": "librosa",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 3.181703805923462,
+"onset_ratio": 0.8450754527962151
+},
+{
+"clip": "083612.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 5.255019187927246,
+"onset_ratio": 1.010114816709643
+},
+{
+"clip": "083612.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 3.700997829437256,
+"onset_ratio": 1.1163217824520466
+},
+{
+"clip": "083612.mp3",
+"tool": "torchaudio",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 3.621779441833496,
+"onset_ratio": 1.1512949221622546
+},
+{
+"clip": "083612.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 3.256342649459839,
+"onset_ratio": 0.8707780662951541
+},
+{
+"clip": "083612.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 3.2065134048461914,
+"onset_ratio": 0.8694295256173834
+},
+{
+"clip": "083612.mp3",
+"tool": "torchaudio",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 4.008605480194092,
+"onset_ratio": 0.8450822193254109
+},
+{
+"clip": "083612.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 0.7577804327011108,
+"onset_ratio": 1.0083649541382969
+},
+{
+"clip": "083612.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 0.7133232951164246,
+"onset_ratio": 1.0261901840144934
+},
+{
+"clip": "083612.mp3",
+"tool": "signalsmith",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.840179681777954,
+"onset_ratio": 1.0639782951734158
+},
+{
+"clip": "083612.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 0.5543215274810791,
+"onset_ratio": 0.9924263469657857
+},
+{
+"clip": "083612.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 0.8579533696174622,
+"onset_ratio": 0.9921313834747822
+},
+{
+"clip": "083612.mp3",
+"tool": "signalsmith",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.1739001274108887,
+"onset_ratio": 0.9779572202675181
+},
+{
+"clip": "083612.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.7864500284194946,
+"onset_ratio": 1.04667570820018
+},
+{
+"clip": "083612.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.1627389192581177,
+"onset_ratio": 1.0599924282641298
+},
+{
+"clip": "083612.mp3",
+"tool": "rubberband",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 2.1071999073028564,
+"onset_ratio": 1.0747199220138064
+},
+{
+"clip": "083612.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.4171347618103027,
+"onset_ratio": 1.045385016581873
+},
+{
+"clip": "083612.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.462408185005188,
+"onset_ratio": 1.0135251474243667
+},
+{
+"clip": "083612.mp3",
+"tool": "rubberband",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.513455867767334,
+"onset_ratio": 1.0514850903035735
+},
+{
+"clip": "083612.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 10,
+"mel_db": 1.024226912704762e-05,
+"onset_ratio": 1.0160566870726793
+},
+{
+"clip": "083612.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 50,
+"mel_db": 1.1572956282179803e-05,
+"onset_ratio": 0.9863181724696958
+},
+{
+"clip": "083612.mp3",
+"tool": "resample",
+"kind": "pitch",
+"amount": 200,
+"mel_db": 1.2460927791835275e-05,
+"onset_ratio": 0.9983198985921697
+},
+{
+"clip": "083612.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.05,
+"mel_db": 1.2466428415791597e-05,
+"onset_ratio": 0.9616996331905193
+},
+{
+"clip": "083612.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.1,
+"mel_db": 1.1081517186539713e-05,
+"onset_ratio": 0.9883994996684118
+},
+{
+"clip": "083612.mp3",
+"tool": "resample",
+"kind": "tempo",
+"amount": 1.2,
+"mel_db": 1.3354967450140975e-05,
+"onset_ratio": 1.0557289430513561
+}
+],
+"windows": [
+{
+"clip": "146683.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9461264170063036,
+"mel_db": 6.76407527923584
+},
+{
+"clip": "146683.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9126064959097214,
+"mel_db": 4.910594940185547
+},
+{
+"clip": "146683.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.7892337661195334,
+"mel_db": 5.079501152038574
+},
+{
+"clip": "146683.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.594619008747542,
+"mel_db": 5.030271053314209
+},
+{
+"clip": "146683.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.3515651633658711,
+"mel_db": 6.175824165344238
+},
+{
+"clip": "032001.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9686905519991769,
+"mel_db": 4.443639278411865
+},
+{
+"clip": "032001.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9073854468448282,
+"mel_db": 5.07789421081543
+},
+{
+"clip": "032001.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.9026879648574415,
+"mel_db": 3.023407220840454
+},
+{
+"clip": "032001.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.7183944382431039,
+"mel_db": 3.5596795082092285
+},
+{
+"clip": "032001.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.5449144783219537,
+"mel_db": 3.584763526916504
+},
+{
+"clip": "130667.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9835485947143471,
+"mel_db": 6.322754383087158
+},
+{
+"clip": "130667.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9684008862909057,
+"mel_db": 5.729322910308838
+},
+{
+"clip": "130667.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8783577187875903,
+"mel_db": 5.194721698760986
+},
+{
+"clip": "130667.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6677828641815265,
+"mel_db": 3.9782357215881348
+},
+{
+"clip": "130667.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.5021787686203831,
+"mel_db": 4.569056034088135
+},
+{
+"clip": "126316.mp3",
+"n_fft": 256,
+"onset_ratio": 1.3077347941556652,
+"mel_db": 3.9418063163757324
+},
+{
+"clip": "126316.mp3",
+"n_fft": 512,
+"onset_ratio": 1.0830452048337076,
+"mel_db": 4.535297870635986
+},
+{
+"clip": "126316.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.9561004327067922,
+"mel_db": 3.183938503265381
+},
+{
+"clip": "126316.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.8558234528875782,
+"mel_db": 2.9822165966033936
+},
+{
+"clip": "126316.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.8580143358405953,
+"mel_db": 3.5385072231292725
+},
+{
+"clip": "076440.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0016906706497515,
+"mel_db": 3.865818738937378
+},
+{
+"clip": "076440.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9804113270862174,
+"mel_db": 5.393232345581055
+},
+{
+"clip": "076440.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8763027651278823,
+"mel_db": 4.237929821014404
+},
+{
+"clip": "076440.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6786130839556808,
+"mel_db": 4.968576431274414
+},
+{
+"clip": "076440.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.4556773910817329,
+"mel_db": 5.27977991104126
+},
+{
+"clip": "091083.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9987854751254358,
+"mel_db": 6.770787715911865
+},
+{
+"clip": "091083.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9347401704226415,
+"mel_db": 5.753637790679932
+},
+{
+"clip": "091083.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8216656507492726,
+"mel_db": 6.407180309295654
+},
+{
+"clip": "091083.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6507662132120128,
+"mel_db": 4.885059356689453
+},
+{
+"clip": "091083.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.48765496588249874,
+"mel_db": 3.7594268321990967
+},
+{
+"clip": "099395.mp3",
+"n_fft": 256,
+"onset_ratio": 1.1131537105545681,
+"mel_db": 5.036782264709473
+},
+{
+"clip": "099395.mp3",
+"n_fft": 512,
+"onset_ratio": 1.0115134750785488,
+"mel_db": 3.8623855113983154
+},
+{
+"clip": "099395.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8950042633608009,
+"mel_db": 4.493246555328369
+},
+{
+"clip": "099395.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.8488327385617729,
+"mel_db": 4.07377290725708
+},
+{
+"clip": "099395.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.7130713629598016,
+"mel_db": 4.002596855163574
+},
+{
+"clip": "112781.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0659280292818167,
+"mel_db": 4.855746746063232
+},
+{
+"clip": "112781.mp3",
+"n_fft": 512,
+"onset_ratio": 1.0236086481788267,
+"mel_db": 4.937260150909424
+},
+{
+"clip": "112781.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.9361746653135214,
+"mel_db": 4.147799968719482
+},
+{
+"clip": "112781.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.8042438772342299,
+"mel_db": 3.2855961322784424
+},
+{
+"clip": "112781.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.7751832356688342,
+"mel_db": 4.800544261932373
+},
+{
+"clip": "127267.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0857867097844454,
+"mel_db": 4.925746440887451
+},
+{
+"clip": "127267.mp3",
+"n_fft": 512,
+"onset_ratio": 1.0125920013041227,
+"mel_db": 4.832930564880371
+},
+{
+"clip": "127267.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.9409835103989427,
+"mel_db": 4.548962116241455
+},
+{
+"clip": "127267.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.8101285861034219,
+"mel_db": 4.954957962036133
+},
+{
+"clip": "127267.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.6945089033537737,
+"mel_db": 6.636385917663574
+},
+{
+"clip": "122166.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0270524075582534,
+"mel_db": 4.171090602874756
+},
+{
+"clip": "122166.mp3",
+"n_fft": 512,
+"onset_ratio": 0.967334985960257,
+"mel_db": 4.53740930557251
+},
+{
+"clip": "122166.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8753946889141998,
+"mel_db": 3.4246749877929688
+},
+{
+"clip": "122166.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.7516379569953477,
+"mel_db": 3.4521450996398926
+},
+{
+"clip": "122166.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.6705386087942249,
+"mel_db": 4.240057468414307
+},
+{
+"clip": "114063.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9953283967217486,
+"mel_db": 5.303530693054199
+},
+{
+"clip": "114063.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9506510007372289,
+"mel_db": 5.320316314697266
+},
+{
+"clip": "114063.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8554567666208747,
+"mel_db": 4.348346710205078
+},
+{
+"clip": "114063.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.5905597922862846,
+"mel_db": 4.093715667724609
+},
+{
+"clip": "114063.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.4056975757815667,
+"mel_db": 3.8749752044677734
+},
+{
+"clip": "127495.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0562327262677773,
+"mel_db": 5.528861045837402
+},
+{
+"clip": "127495.mp3",
+"n_fft": 512,
+"onset_ratio": 1.057822410878004,
+"mel_db": 3.726881265640259
+},
+{
+"clip": "127495.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.7844919406796936,
+"mel_db": 3.1620020866394043
+},
+{
+"clip": "127495.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6739613757756708,
+"mel_db": 3.014981508255005
+},
+{
+"clip": "127495.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.4824855431657377,
+"mel_db": 3.987802743911743
+},
+{
+"clip": "105683.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0139805910799815,
+"mel_db": 3.3372490406036377
+},
+{
+"clip": "105683.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9759788903415839,
+"mel_db": 5.054071426391602
+},
+{
+"clip": "105683.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.854681318855342,
+"mel_db": 3.774502754211426
+},
+{
+"clip": "105683.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6344639242480679,
+"mel_db": 4.715409755706787
+},
+{
+"clip": "105683.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.41216438018001345,
+"mel_db": 7.499135494232178
+},
+{
+"clip": "140789.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9727504802747386,
+"mel_db": 5.319935321807861
+},
+{
+"clip": "140789.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9621237613809438,
+"mel_db": 5.7472615242004395
+},
+{
+"clip": "140789.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.834375105530785,
+"mel_db": 6.220171928405762
+},
+{
+"clip": "140789.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6940872661990616,
+"mel_db": 3.575604200363159
+},
+{
+"clip": "140789.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.5258092613833649,
+"mel_db": 3.708292007446289
+},
+{
+"clip": "056497.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9201054060064813,
+"mel_db": 5.680025577545166
+},
+{
+"clip": "056497.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9133728519255531,
+"mel_db": 5.422817230224609
+},
+{
+"clip": "056497.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8351237184199188,
+"mel_db": 6.06495475769043
+},
+{
+"clip": "056497.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6516048847083231,
+"mel_db": 4.929438591003418
+},
+{
+"clip": "056497.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.42628652301337394,
+"mel_db": 4.724896430969238
+},
+{
+"clip": "085966.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9203629457116962,
+"mel_db": 4.950785160064697
+},
+{
+"clip": "085966.mp3",
+"n_fft": 512,
+"onset_ratio": 0.931486356871867,
+"mel_db": 3.9005188941955566
+},
+{
+"clip": "085966.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8255395588405086,
+"mel_db": 3.633855104446411
+},
+{
+"clip": "085966.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6036136116930964,
+"mel_db": 4.541085243225098
+},
+{
+"clip": "085966.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.39651605930840894,
+"mel_db": 5.675146102905273
+},
+{
+"clip": "082631.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9039002492944139,
+"mel_db": 4.9328837394714355
+},
+{
+"clip": "082631.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9584560891398023,
+"mel_db": 4.142014980316162
+},
+{
+"clip": "082631.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.87546448782858,
+"mel_db": 3.7787466049194336
+},
+{
+"clip": "082631.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6478305904352905,
+"mel_db": 4.255271911621094
+},
+{
+"clip": "082631.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.4310669034754899,
+"mel_db": 4.503608703613281
+},
+{
+"clip": "044947.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9848411689181272,
+"mel_db": 5.67510461807251
+},
+{
+"clip": "044947.mp3",
+"n_fft": 512,
+"onset_ratio": 0.961021706833147,
+"mel_db": 4.809017658233643
+},
+{
+"clip": "044947.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8519848591339659,
+"mel_db": 3.6155929565429688
+},
+{
+"clip": "044947.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6591085608446929,
+"mel_db": 3.9152562618255615
+},
+{
+"clip": "044947.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.40263601444514274,
+"mel_db": 4.850687026977539
+},
+{
+"clip": "121664.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0805484569111907,
+"mel_db": 6.522846698760986
+},
+{
+"clip": "121664.mp3",
+"n_fft": 512,
+"onset_ratio": 1.0633196432393432,
+"mel_db": 4.129382133483887
+},
+{
+"clip": "121664.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.9374613176849877,
+"mel_db": 3.604215383529663
+},
+{
+"clip": "121664.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6973305019822084,
+"mel_db": 4.3083600997924805
+},
+{
+"clip": "121664.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.5552833342553299,
+"mel_db": 3.8952181339263916
+},
+{
+"clip": "054063.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9627113113464106,
+"mel_db": 4.836708068847656
+},
+{
+"clip": "054063.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9525267564716571,
+"mel_db": 5.364295482635498
+},
+{
+"clip": "054063.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8702396938126988,
+"mel_db": 4.97716760635376
+},
+{
+"clip": "054063.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6720269291620958,
+"mel_db": 3.6915862560272217
+},
+{
+"clip": "054063.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.45229065610180474,
+"mel_db": 4.036486625671387
+},
+{
+"clip": "148031.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9791583235808174,
+"mel_db": 5.793596267700195
+},
+{
+"clip": "148031.mp3",
+"n_fft": 512,
+"onset_ratio": 0.93430973579997,
+"mel_db": 5.9138407707214355
+},
+{
+"clip": "148031.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8135608342398662,
+"mel_db": 4.520867347717285
+},
+{
+"clip": "148031.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.573951687439018,
+"mel_db": 4.748751163482666
+},
+{
+"clip": "148031.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.35332895446288404,
+"mel_db": 5.782961368560791
+},
+{
+"clip": "113275.mp3",
+"n_fft": 256,
+"onset_ratio": 0.895975739796087,
+"mel_db": 5.753563404083252
+},
+{
+"clip": "113275.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9408646864758031,
+"mel_db": 6.951247215270996
+},
+{
+"clip": "113275.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.844354909448145,
+"mel_db": 4.702868461608887
+},
+{
+"clip": "113275.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6604316522747824,
+"mel_db": 6.068002700805664
+},
+{
+"clip": "113275.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.46937021009277624,
+"mel_db": 4.827652454376221
+},
+{
+"clip": "127062.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9846651259264636,
+"mel_db": 6.456902027130127
+},
+{
+"clip": "127062.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9689598490583169,
+"mel_db": 4.487001895904541
+},
+{
+"clip": "127062.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8675861688533433,
+"mel_db": 5.043920040130615
+},
+{
+"clip": "127062.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.7028658751649528,
+"mel_db": 4.146953105926514
+},
+{
+"clip": "127062.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.46182267531791854,
+"mel_db": 4.330190658569336
+},
+{
+"clip": "095251.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9916480060455094,
+"mel_db": 5.820109844207764
+},
+{
+"clip": "095251.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9713502999597978,
+"mel_db": 4.305649280548096
+},
+{
+"clip": "095251.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8596505282747515,
+"mel_db": 4.564852714538574
+},
+{
+"clip": "095251.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.7191464659519947,
+"mel_db": 4.301819801330566
+},
+{
+"clip": "095251.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.5346945477185858,
+"mel_db": 4.213099479675293
+},
+{
+"clip": "001661.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0486829976046135,
+"mel_db": 3.989475727081299
+},
+{
+"clip": "001661.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9849987269581798,
+"mel_db": 5.516810417175293
+},
+{
+"clip": "001661.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.9101902359481299,
+"mel_db": 5.425830364227295
+},
+{
+"clip": "001661.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.7883678492080813,
+"mel_db": 4.01231050491333
+},
+{
+"clip": "001661.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.6751486934513152,
+"mel_db": 3.5758206844329834
+},
+{
+"clip": "007483.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9639662378006647,
+"mel_db": 3.5262348651885986
+},
+{
+"clip": "007483.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9108819401620809,
+"mel_db": 4.410547256469727
+},
+{
+"clip": "007483.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8218579660247993,
+"mel_db": 4.923462390899658
+},
+{
+"clip": "007483.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.625407386077632,
+"mel_db": 4.206653594970703
+},
+{
+"clip": "007483.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.4128386705221187,
+"mel_db": 5.440255165100098
+},
+{
+"clip": "135229.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0129705182166842,
+"mel_db": 3.8579981327056885
+},
+{
+"clip": "135229.mp3",
+"n_fft": 512,
+"onset_ratio": 1.0338237427127537,
+"mel_db": 5.490245342254639
+},
+{
+"clip": "135229.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8510309848687054,
+"mel_db": 4.35963773727417
+},
+{
+"clip": "135229.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6569746028965575,
+"mel_db": 4.293088436126709
+},
+{
+"clip": "135229.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.47661590134745657,
+"mel_db": 6.038835525512695
+},
+{
+"clip": "084159.mp3",
+"n_fft": 256,
+"onset_ratio": 1.0522832501672845,
+"mel_db": 4.854457855224609
+},
+{
+"clip": "084159.mp3",
+"n_fft": 512,
+"onset_ratio": 1.0248247192414555,
+"mel_db": 5.282686710357666
+},
+{
+"clip": "084159.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8871615047025943,
+"mel_db": 3.7167718410491943
+},
+{
+"clip": "084159.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.7601118322593489,
+"mel_db": 3.375600814819336
+},
+{
+"clip": "084159.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.5951842547178307,
+"mel_db": 3.70580792427063
+},
+{
+"clip": "123933.mp3",
+"n_fft": 256,
+"onset_ratio": 0.9824089604154109,
+"mel_db": 6.360925674438477
+},
+{
+"clip": "123933.mp3",
+"n_fft": 512,
+"onset_ratio": 0.9518829872253154,
+"mel_db": 4.217973709106445
+},
+{
+"clip": "123933.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.8371445996672442,
+"mel_db": 5.478098392486572
+},
+{
+"clip": "123933.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.6203110465894182,
+"mel_db": 5.324190139770508
+},
+{
+"clip": "123933.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.3958911793757133,
+"mel_db": 5.324721336364746
+},
+{
+"clip": "083612.mp3",
+"n_fft": 256,
+"onset_ratio": 1.16339395288063,
+"mel_db": 3.459423542022705
+},
+{
+"clip": "083612.mp3",
+"n_fft": 512,
+"onset_ratio": 1.1163217824520466,
+"mel_db": 3.700997829437256
+},
+{
+"clip": "083612.mp3",
+"n_fft": 1024,
+"onset_ratio": 0.9371413255515091,
+"mel_db": 4.47014856338501
+},
+{
+"clip": "083612.mp3",
+"n_fft": 2048,
+"onset_ratio": 0.8329831886070356,
+"mel_db": 3.5317814350128174
+},
+{
+"clip": "083612.mp3",
+"n_fft": 4096,
+"onset_ratio": 0.8149132200410502,
+"mel_db": 3.5002801418304443
+}
+]
+}

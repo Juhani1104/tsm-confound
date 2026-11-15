@@ -1,0 +1,16 @@
+R3 block   4096 (limit 524288) cents  +10 ratio 1.000 len 1.0000  5s:+4 15s:+5 30s:+4 45s:+4 55s:+4
+R3 block   4096 (limit 524288) cents  +50 ratio 1.000 len 1.0000  5s:+4 15s:+5 30s:+4 45s:+5 55s:+4
+R3 block   4096 (limit 524288) cents +200 ratio 1.000 len 1.0000  5s:+1 15s:+4 30s:+5 45s:+4 55s:+5
+R3 block   4096 (limit 524288) cents   +0 ratio 0.952 len 0.9524  5s:+5 15s:+5 30s:+4 45s:+5 55s:+5
+R3 block  16384 (limit 524288) cents  +10 ratio 1.000 len 1.0000  5s:+10 15s:+17 30s:+18 45s:+19 55s:+18
+R3 block  16384 (limit 524288) cents  +50 ratio 1.000 len 1.0000  5s:+14 15s:+19 30s:+18 45s:+18 55s:+22
+R3 block  16384 (limit 524288) cents +200 ratio 1.000 len 1.0000  5s:+1 15s:+4 30s:+9 45s:+14 55s:+17
+R3 block  16384 (limit 524288) cents   +0 ratio 0.952 len 0.9524  5s:+14 15s:+20 30s:+17 45s:+20 55s:+20
+R3 block  65536 (limit 524288) cents  +10 ratio 1.000 len 1.0000  5s:+10 15s:+31 30s:+62 45s:+62 55s:+82
+R3 block  65536 (limit 524288) cents  +50 ratio 1.000 len 1.0000  5s:+14 15s:+43 30s:+86 45s:+66 55s:+78
+R3 block  65536 (limit 524288) cents +200 ratio 1.000 len 1.0000  5s:+1 15s:+4 30s:+9 45s:+14 55s:+17
+R3 block  65536 (limit 524288) cents   +0 ratio 0.952 len 0.9524  5s:+14 15s:+43 30s:+74 45s:+68 55s:+66
+R3 block 524288 (limit 524288) cents  +10 ratio 1.000 len 1.0000  5s:+10 15s:+31 30s:+62 45s:+94 55s:+115
+R3 block 524288 (limit 524288) cents  +50 ratio 1.000 len 1.0000  5s:+14 15s:+43 30s:+86 45s:+130 55s:+159
+R3 block 524288 (limit 524288) cents +200 ratio 1.000 len 1.0000  5s:+1 15s:+4 30s:+9 45s:+14 55s:+17
+R3 block 524288 (limit 524288) cents   +0 ratio 0.952 len 0.9524  5s:+14 15s:+43 30s:+86 45s:+129 55s:+158

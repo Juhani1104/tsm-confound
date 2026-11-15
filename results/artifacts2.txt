@@ -1,0 +1,75 @@
+site-packages/librosa/effects.py:448: FutureWarning: The `hop_length` parameter is deprecated as of 1.0 and will be removed in 1.1. It is unused in the current implementation.
+  stft_stretch = core.phase_vocoder(
+site-packages/librosa/effects.py:448: FutureWarning: The `n_fft` parameter is deprecated as of 1.0 and will be removed in 1.1. It is unused in the current implementation.
+  stft_stretch = core.phase_vocoder(
+site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+146683.mp3
+032001.mp3
+130667.mp3
+126316.mp3
+076440.mp3
+091083.mp3
+099395.mp3
+112781.mp3
+127267.mp3
+122166.mp3
+114063.mp3
+127495.mp3
+105683.mp3
+140789.mp3
+056497.mp3
+085966.mp3
+082631.mp3
+044947.mp3
+121664.mp3
+054063.mp3
+148031.mp3
+113275.mp3
+127062.mp3
+095251.mp3
+001661.mp3
+007483.mp3
+135229.mp3
+084159.mp3
+123933.mp3
+083612.mp3
+
+tool        kind   amount  roundtrip_mel_dB  onset_peak_ratio
+librosa     pitch   10.00        3.95       0.730
+librosa     pitch   50.00        4.47       0.699
+librosa     pitch  200.00        4.24       0.709
+librosa     tempo    1.05        4.41       0.692
+librosa     tempo    1.10        4.36       0.692
+librosa     tempo    1.20        4.46       0.695
+torchaudio  pitch   10.00        4.78       0.959
+torchaudio  pitch   50.00        4.92       0.979
+torchaudio  pitch  200.00        4.78       0.997
+torchaudio  tempo    1.05        4.43       0.690
+torchaudio  tempo    1.10        4.24       0.691
+torchaudio  tempo    1.20        4.35       0.694
+signalsmith pitch   10.00        1.82       1.006
+signalsmith pitch   50.00        1.42       1.020
+signalsmith pitch  200.00        1.60       1.024
+signalsmith tempo    1.05        0.88       0.998
+signalsmith tempo    1.10        1.29       0.978
+signalsmith tempo    1.20        1.94       0.939
+rubberband  pitch   10.00        1.77       1.007
+rubberband  pitch   50.00        2.05       1.002
+rubberband  pitch  200.00        2.64       1.016
+rubberband  tempo    1.05        2.18       0.972
+rubberband  tempo    1.10        1.84       0.974
+rubberband  tempo    1.20        2.25       0.954
+resample    pitch   10.00        0.00       0.991
+resample    pitch   50.00        0.00       0.988
+resample    pitch  200.00        0.00       0.976
+resample    tempo    1.05        0.00       0.991
+resample    tempo    1.10        0.00       0.979
+resample    tempo    1.20        0.00       0.952
+
+phase vocoder pitch shift 50 cents by window length
+n_fft   256 (   8.0 ms)  onset ratio 1.013  roundtrip mel 5.10 dB
+n_fft   512 (  16.0 ms)  onset ratio 0.979  roundtrip mel 4.92 dB
+n_fft  1024 (  32.0 ms)  onset ratio 0.868  roundtrip mel 4.47 dB
+n_fft  2048 (  64.0 ms)  onset ratio 0.695  roundtrip mel 4.21 dB
+n_fft  4096 ( 128.0 ms)  onset ratio 0.524  roundtrip mel 4.67 dB

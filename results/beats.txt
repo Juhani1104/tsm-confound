@@ -1,0 +1,115 @@
+site-packages/librosa/effects.py:448: FutureWarning: The `hop_length` parameter is deprecated as of 1.0 and will be removed in 1.1. It is unused in the current implementation.
+  stft_stretch = core.phase_vocoder(
+site-packages/librosa/effects.py:448: FutureWarning: The `n_fft` parameter is deprecated as of 1.0 and will be removed in 1.1. It is unused in the current implementation.
+  stft_stretch = core.phase_vocoder(
+site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+099440.mp3 {'pitch_vocoder': (0.943, 0.943), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.725, 0.736), 'tempo_signalsmith': (0.961, 0.961), 'tempo_resample': (0.955, 0.955)}
+082778.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+003573.mp3 {'pitch_vocoder': (0.768, 0.776), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.987, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (0.667, 0.667)}
+123935.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+052036.mp3 {'pitch_vocoder': (0.99, 0.99), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+054735.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+023172.mp3 {'pitch_vocoder': (0.992, 0.992), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.974, 0.974), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+085832.mp3 {'pitch_vocoder': (0.889, 0.889), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.879, 0.879), 'tempo_vocoder': (0.962, 0.962), 'tempo_signalsmith': (0.792, 0.792), 'tempo_resample': (0.76, 0.76)}
+024420.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+092131.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (0.981, 0.99), 'tempo_resample': (0.97, 0.97)}
+048453.mp3 {'pitch_vocoder': (0.831, 0.831), 'pitch_signalsmith': (0.904, 0.904), 'pitch_resample': (0.928, 0.928), 'tempo_vocoder': (0.831, 0.831), 'tempo_signalsmith': (0.903, 0.903), 'tempo_resample': (0.831, 0.831)}
+105824.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+068897.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+026765.mp3 {'pitch_vocoder': (0.96, 0.96), 'pitch_signalsmith': (0.974, 0.974), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.762, 0.762), 'tempo_signalsmith': (0.963, 0.963), 'tempo_resample': (0.963, 0.963)}
+108845.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+087641.mp3 {'pitch_vocoder': (0.873, 0.873), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.91, 0.91), 'tempo_vocoder': (0.825, 0.825), 'tempo_signalsmith': (0.849, 0.849), 'tempo_resample': (0.898, 0.898)}
+117883.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+006605.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (0.991, 0.991), 'tempo_resample': (1.0, 1.0)}
+011922.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+027548.mp3 {'pitch_vocoder': (0.969, 0.99), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.979, 0.979), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+113018.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+109350.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.99, 1.0), 'tempo_signalsmith': (0.99, 1.0), 'tempo_resample': (0.99, 1.0)}
+032755.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+119942.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+027177.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+143221.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+094099.mp3 {'pitch_vocoder': (0.987, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.987, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+154413.mp3 {'pitch_vocoder': (0.854, 0.854), 'pitch_signalsmith': (0.956, 0.978), 'pitch_resample': (0.956, 0.978), 'tempo_vocoder': (0.871, 0.871), 'tempo_signalsmith': (0.957, 0.957), 'tempo_resample': (0.884, 0.884)}
+119187.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+043867.mp3 {'pitch_vocoder': (0.916, 0.916), 'pitch_signalsmith': (0.929, 0.929), 'pitch_resample': (0.769, 0.769), 'tempo_vocoder': (0.916, 0.916), 'tempo_signalsmith': (0.916, 0.916), 'tempo_resample': (0.929, 0.929)}
+073792.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+122800.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.991, 0.991), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+051954.mp3 {'pitch_vocoder': (0.674, 0.674), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.992, 0.992), 'tempo_vocoder': (0.667, 0.667), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+087161.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+154305.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+075783.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.901, 0.901), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+148612.mp3 {'pitch_vocoder': (0.988, 0.988), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+148513.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+114294.mp3 {'pitch_vocoder': (0.968, 0.968), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.978, 0.978), 'tempo_vocoder': (0.947, 0.947), 'tempo_signalsmith': (0.957, 0.957), 'tempo_resample': (0.947, 0.947)}
+075380.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+004778.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+117472.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+125315.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+016338.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+004799.mp3 {'pitch_vocoder': (0.921, 0.921), 'pitch_signalsmith': (0.961, 0.961), 'pitch_resample': (0.927, 0.927), 'tempo_vocoder': (0.844, 0.844), 'tempo_signalsmith': (0.854, 0.854), 'tempo_resample': (0.8, 0.8)}
+091083.mp3 {'pitch_vocoder': (0.983, 0.983), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+078852.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+085599.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+096408.mp3 {'pitch_vocoder': (0.575, 0.575), 'pitch_signalsmith': (0.905, 0.905), 'pitch_resample': (0.891, 0.898), 'tempo_vocoder': (0.557, 0.557), 'tempo_signalsmith': (0.819, 0.819), 'tempo_resample': (0.612, 0.612)}
+140923.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.673, 0.673), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+125551.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+149075.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (0.99, 1.0), 'tempo_resample': (0.99, 1.0)}
+129051.mp3 {'pitch_vocoder': (0.933, 0.933), 'pitch_signalsmith': (0.978, 0.978), 'pitch_resample': (0.946, 0.946), 'tempo_vocoder': (0.921, 0.921), 'tempo_signalsmith': (0.889, 0.889), 'tempo_resample': (0.867, 0.867)}
+014739.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+139995.mp3 {'pitch_vocoder': (0.676, 0.676), 'pitch_signalsmith': (0.979, 0.979), 'pitch_resample': (0.8, 0.8), 'tempo_vocoder': (0.896, 0.917), 'tempo_signalsmith': (0.868, 0.887), 'tempo_resample': (0.882, 0.891)}
+001087.mp3 {'pitch_vocoder': (0.752, 0.752), 'pitch_signalsmith': (0.966, 0.966), 'pitch_resample': (0.927, 0.927), 'tempo_vocoder': (0.795, 0.795), 'tempo_signalsmith': (0.896, 0.896), 'tempo_resample': (0.898, 0.898)}
+127286.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+085828.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+106562.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.964, 0.964), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+066536.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+075391.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.991, 0.991), 'tempo_vocoder': (0.991, 0.991), 'tempo_signalsmith': (0.649, 0.964), 'tempo_resample': (0.655, 0.972)}
+073125.mp3 {'pitch_vocoder': (0.929, 0.929), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.667, 0.667), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+129972.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+114064.mp3 {'pitch_vocoder': (0.446, 0.496), 'pitch_signalsmith': (0.93, 0.941), 'pitch_resample': (0.806, 0.815), 'tempo_vocoder': (0.475, 0.475), 'tempo_signalsmith': (0.835, 0.835), 'tempo_resample': (0.626, 0.658)}
+046736.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+126431.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.993, 0.993), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+075746.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+114410.mp3 {'pitch_vocoder': (0.985, 0.985), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+069170.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+127279.mp3 {'pitch_vocoder': (0.943, 0.943), 'pitch_signalsmith': (0.972, 0.972), 'pitch_resample': (0.972, 0.972), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (0.986, 0.986), 'tempo_resample': (0.972, 0.972)}
+073551.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+136320.mp3 {'pitch_vocoder': (0.733, 0.733), 'pitch_signalsmith': (0.984, 0.984), 'pitch_resample': (0.952, 0.952), 'tempo_vocoder': (0.745, 0.764), 'tempo_signalsmith': (0.885, 0.885), 'tempo_resample': (0.93, 0.93)}
+103600.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.99, 0.99), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+074348.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (0.99, 0.99), 'pitch_resample': (0.99, 0.99), 'tempo_vocoder': (0.99, 0.99), 'tempo_signalsmith': (0.99, 0.99), 'tempo_resample': (0.99, 0.99)}
+053591.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+137418.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+[src/libmpg123/layer3.c:INT123_do_layer3():1844] error: dequantization failed!
+107020.mp3 {'pitch_vocoder': (0.947, 0.982), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.947, 0.982), 'tempo_signalsmith': (0.982, 0.982), 'tempo_resample': (0.982, 0.982)}
+124555.mp3 {'pitch_vocoder': (0.84, 0.84), 'pitch_signalsmith': (0.966, 0.966), 'pitch_resample': (0.899, 0.899), 'tempo_vocoder': (0.831, 0.844), 'tempo_signalsmith': (0.83, 0.83), 'tempo_resample': (0.8, 0.8)}
+138065.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.984, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+138355.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.953, 0.953), 'tempo_signalsmith': (0.965, 0.965), 'tempo_resample': (0.812, 0.812)}
+004022.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.935, 0.935), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+108528.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.99, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+122799.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (0.946, 0.946), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+013566.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+101951.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+140344.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+062436.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+091087.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (0.972, 0.991), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+012147.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+054335.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+014391.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+062742.mp3 {'pitch_vocoder': (0.8, 0.8), 'pitch_signalsmith': (0.927, 0.927), 'pitch_resample': (0.895, 0.895), 'tempo_vocoder': (0.865, 0.865), 'tempo_signalsmith': (0.905, 0.905), 'tempo_resample': (0.884, 0.884)}
+093983.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+128443.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+051268.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+067366.mp3 {'pitch_vocoder': (0.748, 0.765), 'pitch_signalsmith': (0.958, 0.958), 'pitch_resample': (0.765, 0.783), 'tempo_vocoder': (0.754, 0.789), 'tempo_signalsmith': (0.772, 0.789), 'tempo_resample': (0.793, 0.81)}
+148606.mp3 {'pitch_vocoder': (0.987, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+012174.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+106569.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+023041.mp3 {'pitch_vocoder': (1.0, 1.0), 'pitch_signalsmith': (1.0, 1.0), 'pitch_resample': (1.0, 1.0), 'tempo_vocoder': (1.0, 1.0), 'tempo_signalsmith': (1.0, 1.0), 'tempo_resample': (1.0, 1.0)}
+
+tracks 100
+pitch_vocoder      F lag0 0.958  F best-lag 0.960  tracks below 0.9 (best-lag) 0.14
+pitch_signalsmith  F lag0 0.993  F best-lag 0.993  tracks below 0.9 (best-lag) 0.00
+pitch_resample     F lag0 0.981  F best-lag 0.982  tracks below 0.9 (best-lag) 0.08
+tempo_vocoder      F lag0 0.951  F best-lag 0.952  tracks below 0.9 (best-lag) 0.16
+tempo_signalsmith  F lag0 0.974  F best-lag 0.978  tracks below 0.9 (best-lag) 0.11
+tempo_resample     F lag0 0.963  F best-lag 0.967  tracks below 0.9 (best-lag) 0.15

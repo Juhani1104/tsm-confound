@@ -23,11 +23,11 @@ import pandas as pd
 import python_stretch
 import soundfile as sf
 import torch
-from panns_inference.models import Cnn14
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from panns_cnn14 import Cnn14  # noqa: E402
 from paths import FMA_TRACKS, FMA_ZIP, PANNS  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

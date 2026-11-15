@@ -17,13 +17,13 @@ import librosa
 import numpy as np
 import soundfile as sf
 import torch
-from panns_inference.models import Cnn14
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 from transformers import ASTFeatureExtractor, ASTForAudioClassification
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import harness  # noqa: E402
+from panns_cnn14 import Cnn14  # noqa: E402
 from paths import AST, NSYNTH, PANNS  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

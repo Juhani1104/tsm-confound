@@ -52,3 +52,5 @@ KONG = EXT / "piano" / "note_F1.pth"
 EDWARDS = EXT / "piano" / "edwards_aug.pth"
 DEEZER = EXT / "deezer_specnn_amplitude"
 ARTIFACTNET = EXT / "artifactnet" / "artifactnet_v94_full.onnx"
+# panns_inference keeps AudioSet's label list in <this folder>/panns_data (see panns_cnn14.py)
+PANNS_HOME = Path(os.environ.get("TSM_PANNS_HOME", EXT))

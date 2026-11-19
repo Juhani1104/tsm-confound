@@ -24,3 +24,8 @@ run/03_replicate.sh
 ## Output
 
 - `results/replicate.txt`
+
+The copy in `results/` was made by this script's first version in the
+[piano-tuning](https://github.com/Juhani1104/piano-tuning) repository. That version read
+the same piece lists and Studio MAESTRO offsets as the files in `index/`, and differs
+only in file paths and formatting.

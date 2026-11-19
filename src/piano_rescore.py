@@ -1,6 +1,6 @@
 """Split each tool's transcription loss into timing and content: rescore after time alignment.
 
-usage: python src/piano_rescore.py [NOTES.jsonl]   (default results/piano_rb_notes.jsonl)
+usage: python src/piano_rescore.py [NOTES.jsonl]   (default results/piano_all_notes.jsonl)
 
 For every piece and condition, Kong's notes are matched to the reference notes of the
 same pitch within 150 ms, and a straight line t_ref = a + b * t_est (offset a, drift b) is
@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from paths import MAESTRO, MAESTRO_PICK, RESULTS  # noqa: E402
 
 SEC = 60
-path = sys.argv[1] if len(sys.argv) > 1 else f"{RESULTS}/piano_rb_notes.jsonl"
+path = sys.argv[1] if len(sys.argv) > 1 else f"{RESULTS}/piano_all_notes.jsonl"
 _all = json.load(open(MAESTRO_PICK))
 pick = _all[::3] + [
     r for i, r in enumerate(_all) if i % 3

@@ -46,6 +46,18 @@ for c in ("asis", "fixed", "notempo", "spectempo"):
             + " ".join(f"{np.mean([v[m] for v in s.values()]):16.3f}" for m in metrics)
         )
 
+# seed-level differences on the scores reported in the README (70 ms is the standard
+# beat tolerance); "n/N up" counts the seeds where the condition beats asis
+for m in ("beat_f70", "beat_f30_cal", "downbeat_f70"):
+    for c in [c for c in ("fixed", "notempo", "spectempo") if c in by]:
+        seeds = sorted(set(by["asis"]) & set(by[c]))
+        d = [by[c][s][m] - by["asis"][s][m] for s in seeds]
+        up = sum(v > 0 for v in d)
+        print(
+            f"{m} {c} - asis per seed: mean {np.mean(d):+.4f}  {up}/{len(d)} up  "
+            + " ".join(f"{v:+.3f}" for v in d)
+        )
+
 rng = np.random.default_rng(0)
 for k in ("beat", "downbeat"):
     key = f"{k}_per_item_f20_cal"

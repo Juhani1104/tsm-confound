@@ -2,6 +2,12 @@ cond     seeds          beat_f70         beat_f30         beat_f20     beat_f30_
 asis     5                 0.823            0.717            0.608            0.727            0.634           -6.000            0.580            0.452
 fixed    5                 0.833            0.718            0.581            0.743            0.645           -9.200            0.575            0.447
 notempo  5                 0.829            0.713            0.578            0.734            0.631           -8.600            0.565            0.434
+beat_f70 fixed - asis per seed: mean +0.0104  5/5 up  +0.007 +0.001 +0.008 +0.019 +0.017
+beat_f70 notempo - asis per seed: mean +0.0060  5/5 up  +0.006 +0.002 +0.007 +0.006 +0.008
+beat_f30_cal fixed - asis per seed: mean +0.0161  5/5 up  +0.017 +0.011 +0.010 +0.027 +0.016
+beat_f30_cal notempo - asis per seed: mean +0.0071  5/5 up  +0.007 +0.005 +0.010 +0.013 +0.001
+downbeat_f70 fixed - asis per seed: mean -0.0052  0/5 up  -0.001 -0.001 -0.021 -0.003 -0.000
+downbeat_f70 notempo - asis per seed: mean -0.0148  0/5 up  -0.015 -0.010 -0.024 -0.014 -0.011
 beat F20_cal fixed - asis over seeds [0, 1, 2, 3, 4]: +0.0107 [+0.0076, +0.0137]  per seed +0.012 +0.007 +0.006 +0.021 +0.007
 beat F20_cal notempo - asis over seeds [0, 1, 2, 3, 4]: -0.0031 [-0.0066, +0.0005]  per seed -0.004 -0.003 +0.004 +0.001 -0.013
 downbeat F20_cal fixed - asis over seeds [0, 1, 2, 3, 4]: -0.0051 [-0.0095, -0.0008]  per seed +0.004 +0.001 -0.019 -0.004 -0.008

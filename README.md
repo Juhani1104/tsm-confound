@@ -4,11 +4,8 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776ab)](https://www.python.org/)
 [![Built on PyTorch](https://img.shields.io/badge/built%20on-PyTorch-ee4c2c)](https://pytorch.org/)
 [![6 TSM tools](https://img.shields.io/badge/TSM%20tools-6-7b3fbf)](#tools-compared)
-[![6 tasks, 7 models](https://img.shields.io/badge/tasks%20%2F%20models-6%20%2F%207-2c5aa0)](#results)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Platform: Linux](https://img.shields.io/badge/platform-Linux-lightgrey)](experiments/00-setup.md)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![Last commit](https://img.shields.io/github/last-commit/Juhani1104/tsm-confound)](https://github.com/Juhani1104/tsm-confound/commits/main)
 
 **Pitch and tempo robustness tests often measure the audio tool, not the model.**
 

@@ -1,15 +1,38 @@
+# Only code, experiment pages, final results and figures go to GitHub.
+
 # downloaded datasets, model weights and trained checkpoints
 data/
 ext/
 ckpt/
-# large intermediate outputs and logs
+
+# large or intermediate outputs: logits, predictions, per-run score arrays, logs
 results/bt_logits*/
 results/bt_pred*/
+results/bt_gtzan*.npy
 *.log
-# private working notes
+
+# pilot and exploratory runs, superseded by the results the run/ scripts produce
+results/artifacts.json
+results/artifacts.txt
+results/bt_lagcurves_new.txt
+results/bt_spect_check.json
+results/piano.jsonl
+results/piano_rb*.jsonl
+results/summary_piano.txt
+results/summary_piano_rescore.txt
+results/*_rb.jsonl
+results/summary_*_rb.txt
+results/vocoder_am.txt
+
+# private notes and working files
 STATUS.md
-__pycache__/
-*.pyc
 PLAN.md
 LITERATURE.md
 REPORT.md
+*.tmp
+*.bak
+
+# Python and tool caches
+__pycache__/
+*.pyc
+.ruff_cache/
